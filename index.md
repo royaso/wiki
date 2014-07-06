@@ -1,3 +1,8 @@
+ubuntu和ipad同步wiki生成的html的时候，才发觉原来有改过一个文件`.vim/autoload/vimwiki/html.vim`,
+原作者忘了闭合<li>标签 ，我给修正了，ipad那边 没改，所以生成的htm就差这么一点。
+
+以后就这样同步，不论在那边写wiki先pull，而后html生成再push。
+-----------
 royaso:有只小狗一直跟着我怎么办
 alison:干翻它
 royaso：有效！没想到你名声在外。我把你短信给它看，它就吓跑了！
