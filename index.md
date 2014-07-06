@@ -6,6 +6,7 @@ ubuntu和ipad同步wiki生成的html的时候，才发觉原来有改过一个�
 同步不必太频繁，就像之前想的那样，每天结束后push一次就可以了
 
 这次从ubuntu测试
+这次从ubuntu测试
 -----------
 royaso:有只小狗一直跟着我怎么办
 alison:干翻它
