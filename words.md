@@ -1,3 +1,8 @@
+    Nothing is ever easy, but if it is difficult you must be doing it wrong.
+------------
+【看忍受】一个人知道自己为什么而活，就可以忍受任何一种生活。——尼采
+
+------------
 http://blog.csdn.net/aka_xingwenpeng/article/details/31751215
 
 emacs生存指南

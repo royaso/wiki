@@ -1,3 +1,14 @@
+gnome应用技巧
+
+* 修改目录图标：可以把nautilus中看到的图片，直接拖放到目录属性的图标上就可以了。
+ * 压着shift拖动窗口可以让窗口吸附在屏幕的边缘。
+ 
+----------
+ 转换 mp3 标签编码 :
+`  sudo apt-get install python-mutagen;find . -iname '*.mp3' -execdir mid3iconv -e GBK {} \;`
+-------------
+sismics reader (a rss reader like gr)
+----------
 挂载远程linux主机文件到本机
 
 http://article.yeeyan.org/view/90729/347310
