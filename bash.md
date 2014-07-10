@@ -1,3 +1,25 @@
+查看磁盘空间大小
+
+`df -h`
+
+`du -sh`
+-------
+`find . -iname '*txt*' --exec mv -v {} /home/test \;`
+
+`name=royaso;${name:2:3};`
+
+`find . -maxdepth 1 -type d -empty`
+
+`<test.txt sed -n '22,33p'`
+-------
+登录Ubuntu Linux需要输入密码以解锁密钥环的解决  
+
+`seahorse`  ->login 
+
+or `sudo rm -rf ~./gnome2/keyrings/*`
+
+
+-------
 gnome应用技巧
 
 * 修改目录图标：可以把nautilus中看到的图片，直接拖放到目录属性的图标上就可以了。
@@ -155,3 +177,21 @@ sudo pip install Beautifulsoup
 sudo pip uninstall Beautifulsoup
 }}}
 
+-----------
+基本的linux命令，多多看看man
+
+{{{
+ls
+diff
+ssh
+wget
+mkdir
+mv
+cp
+echo
+curl
+sed
+grep
+cut
+paste
+}}}
