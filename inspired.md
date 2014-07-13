@@ -1,5 +1,7 @@
 %toc
 
+
+ == IF it is easy, everyone would do it. It gets harder and you quit? ==
 -------
 后一个是“不给别添麻烦。
 

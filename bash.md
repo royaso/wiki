@@ -1,3 +1,27 @@
+http://www.cnseay.com/816/
+
+linux命令
+------
+sudo egrep '(vmx|svm)' --color=always /proc/cpuinfo
+
+是否支持硬件虚拟化
+-----------
+http://www.kvm.la/kill-login-ssh-user.html
+
+剔除登陆账号
+
+kuser -k /dev/pts/0
+
+who >>>kill -9 222
+------------
+Centos安装davfs2挂载WebDAV
+
+http://www.kvm.la/808.html
+
+`ii davfs2`
+
+除了box.com还有什么支持webdav？'owncloud'?
+------
 查看磁盘空间大小
 
 `df -h`
@@ -194,4 +218,10 @@ sed
 grep
 cut
 paste
+asciidoctor
+yelp 'browser system documentation' (like xml)
+sed '2,3s/oo/ii/g' test
+mono
+gdb
+newsbeuter  rss
 }}}

@@ -1,3 +1,10 @@
+7. 如果你碰到一个十分高效的ZF机关，多半是骗子
+
+http://mp.weixin.qq.com/s?__biz=MjM5NzA4ODc0MQ==&mid=200439767&idx=1&sn=dc960ba7115ed50c9c4d2f821e4da548#rd
+
+17、问：如何生成一个随机的字符串？答：让新手退出VIM 。
+
+*这个真的试一试,有机会找alison来做实验*
 ------
 royaso:有只小狗一直跟着我怎么办
 alison:干翻它
