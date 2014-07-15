@@ -224,4 +224,8 @@ sed '2,3s/oo/ii/g' test
 mono
 gdb
 newsbeuter  rss
+gThumb
+gmusicbrowser
+deepin-music-player http://www.linuxidc.com/Linux/2014-05/101789.htm
+deepin-media-player
 }}}

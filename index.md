@@ -79,3 +79,4 @@ http://xiaohudie.net/photo?1
  == [[mysql|远程连接数据库]] ==
  == [[health|程序员养生]] ==
  == [[life-tips|生活tips]] ==
+ == [[phone|关于买手机]] ==
