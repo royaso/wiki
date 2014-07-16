@@ -1,3 +1,38 @@
+`cat >>myfile << EOF`
+
+命令行直接输入文件内容
+------
+
+xdotool
+键盘鼠标自动化操作
+
+
+http://xmodulo.com/2014/07/simulate-key-press-mouse-movement-linux.html
+
+`xdotool key alt+Tab`
+
+`xdotool type 'asdfasdf'`
+
+`xdotool search --name vimperator key g+t`
+
+`xdotool mousemove 11 11 click 1`
+------
+
+sudo apt-get install bsdgames
+
+There are a total of forty-three games in the collection! Here is the list: random, gomoku, caesar, countmail, rot13, bcd, atc, number, boggle, quiz, morse, teachgammon, snake, snscore, pig, wargames, tetris-bsd, adventure, arithmetic, worms, hunt, canfield, battlestar, rain, robots, cribbage, dab, sail, wump, trek, phantasia, wtf, go-fish, monop, backgammon, worm, hack, ppt, primes, hangman, pom, cfscores, and mille.
+
+
+
+
+adventure ,worm, trek, bastet, tetris-bsd,ninvaders,moon-buggy,tanglet
+
+居然有个pacman在ipad上编译成功运行了，倒是在ubuntu上编译不了
+------
+
+学了一招 :用jk来代替esc
+------
+
 http://www.cnseay.com/816/
 
 linux命令

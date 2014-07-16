@@ -1,3 +1,16 @@
+    ipad/mac使用launchctl定时运行程序
+
+http://www.2cto.com/os/201305/215350.html
+
+~mobile/LauchAgents/com.royaso.plist
+------
+
+applinks 
+
+进入有中文的目录：一个中文3个字符，cd后用pwd就可以显示中文
+
+软链接：链接前后最好都要绝对路径，可以cd后用`pwd`来输出源路径
+-------
 官方源链接发现没有东西啊
 
 后来是通过命令添加的源

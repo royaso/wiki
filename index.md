@@ -11,16 +11,6 @@
  = [[girl/|女博主点这里]] =
 
 
-alison  过来看啊
-
-找到女博主一只，哇咧，还是个美女啊
-
-小蝴蝶
-
-{{http://photos-h.ak.instagram.com/hphotos-ak-xpa1/925466_1415846272020615_2043392289_n.jpg}}
-
-http://xiaohudie.net/photo?1
-
 == 想写的东西 ==
 
 
@@ -58,9 +48,11 @@ http://xiaohudie.net/photo?1
 	- [ ] 既要写也要回顾，以前的东西
 	- [ ] 扇贝苹果客户端评论换贝壳活动！ 从今天开始，凡是在iPhone或者iPad上下载扇贝系列客户端，并且评论打分（打分请客观，不要违心），评论中按照“shanbay:你的用户名”这个格式写上你的用户名，我们就会在24小时内赠送200贝壳！下载评论4个客户端，就送800！ 
 	- [ ] 我的兵器
+	- [ ] wikipedia.org
 	- [ ] 萧秋水  新浪微博
 	
 ----------
+ == [[program-is-hard|编程很难]] ==
 
 [[recommand|欢迎向我推荐各种有趣的人有趣的事有趣的想法有趣的文章]]
  == [[mystudy|所学]] ==
@@ -68,7 +60,7 @@ http://xiaohudie.net/photo?1
  == [[posts|好文]] ==
  == [[words|好句]] ==
  == [[people|我欣赏的人,我喜欢的站]] ==
- == [[ideas|有意思的想法]] ==
+ == [[ideas|想法]] ==
  ==[[about| 关于本站]]==
  == [[money|等我有了钱]] ==
  == [[joke|记得曾经被逗笑过]] ==
@@ -80,3 +72,7 @@ http://xiaohudie.net/photo?1
  == [[health|程序员养生]] ==
  == [[life-tips|生活tips]] ==
  == [[phone|关于买手机]] ==
+ == [[comments|关于评论]] ==
+ == [[blog-reading|博客怎么读]] ==
+ == [[girl-blogger|女！博主]] ==
+ == [[jingwuyingxiong|精武英雄]] ==
