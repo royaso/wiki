@@ -1,16 +1,12 @@
  = 求美女 =
-== 我折腾 == 
+== [[know-my-self|认识我自己]] ==
 == [[write|哪有什么没得写的？！]] ==
-[[apache|ubuntu下apache建立虚拟主机]]
-
-[[flash|ubuntu火狐不能观看优酷视频原因及解决]]
-
-2014-07-10 成功恢复崩溃后的火狐标签页 我真是太帅了！！
 ----------
 
  = [[girl/|女博主点这里]] =
 
-
+== [[my-tryings|我的失败]] ==
+== [[wait-until-I-have-money|等我有了钱]] ==
 == 想写的东西 ==
 
 
@@ -26,7 +22,7 @@
         - [ ] 舍弃，一对夫妇，搬家，东西都留下。舍友，4年辛苦笔记，离校，舍下
         - [ ] 吐槽mac设置，tult视频
         - [ ] 原创，seo，转载
-        - [ ] 在很早很早以前，我就喜欢一句话：一个人总得实践他所相信的东西。 *我是不是真的喜欢编程*
+        - [ ] 在很早很早以前，我就喜欢一句话：一个人总得实践他所相信的东西。 [[why-I-program|我是不是真的喜欢编程]]
         - [ ] goodbook for sync, ipad vim to write
         - [ ] what you are , that will attract poeple like you!
         - [ ] good blog from ruanyifeng.com commenters
@@ -50,29 +46,42 @@
 	- [ ] 我的兵器
 	- [ ] wikipedia.org
 	- [ ] 萧秋水  新浪微博
+	- [ ] about wiki 
 	
 ----------
- == [[program-is-hard|编程很难]] ==
+== 我折腾 == 
+=== [[apache|ubuntu下apache建立虚拟主机]] ===
+=== [[apache2-with-php5-curl|ubuntu下的apache2安装curl扩展]] ===
+=== [[flash|ubuntu火狐不能观看优酷视频原因及解决]] ===
+2014-07-10 成功恢复崩溃后的火狐标签页 我真是太帅了！！
 
-[[recommand|欢迎向我推荐各种有趣的人有趣的事有趣的想法有趣的文章]]
- == [[mystudy|所学]] ==
- == [[myposts|所写]] ==
- == [[posts|好文]] ==
- == [[words|好句]] ==
- == [[people|我欣赏的人,我喜欢的站]] ==
- == [[ideas|想法]] ==
- ==[[about| 关于本站]]==
- == [[money|等我有了钱]] ==
- == [[joke|记得曾经被逗笑过]] ==
- == [[dese|发觉跟alison得瑟下会给自己快感，所以决定开个链接，专门得瑟alison的！嘿嘿]] ==
- == [[leigure|无聊时]] ==
- == [[mooc]] ==
- == [[vimwiki|vimki相关]] ==
- == [[mysql|远程连接数据库]] ==
- == [[health|程序员养生]] ==
- == [[life-tips|生活tips]] ==
- == [[phone|关于买手机]] ==
- == [[comments|关于评论]] ==
- == [[blog-reading|博客怎么读]] ==
- == [[girl-blogger|女！博主]] ==
- == [[jingwuyingxiong|精武英雄]] ==
+
+=== [[program-is-hard|编程很难]] ===
+=== [[recommand|欢迎向我推荐各种有趣的人有趣的事有趣的想法有趣的文章]] ===
+=== [[mystudy|所学]] ===
+=== [[myposts|所写]] ===
+=== [[posts|好文]] ===
+=== [[words|好句]] ===
+=== [[people|我欣赏的人,我喜欢的站]] ===
+=== [[ideas|想法]] ===
+===[[about| 关于本站]]===
+=== [[money|等我有了钱]] ===
+=== [[joke|记得曾经被逗笑过]] ===
+=== [[dese|发觉跟alison得瑟下会给自己快感，所以决定开个链接，专门得瑟alison的！嘿嘿]] ===
+=== [[leigure|无聊时]] ===
+=== [[mooc]] ===
+=== [[vimwiki|vimki相关]] ===
+=== [[mysql|远程连接数据库]] ===
+=== [[health|程序员养生]] ===
+=== [[life-tips|生活tips]] ===
+=== [[phone|关于买手机]] ===
+=== [[comments|关于评论]] ===
+=== [[blog-reading|博客怎么读]] ===
+=== [[girl-blogger|女！博主]] ===
+=== [[jingwuyingxiong|影评:精武英雄]] ===
+=== [[remote-booting|远程开机]] ===
+=== [[no-crowding|少扎堆]] ===
+=== [[childhood|想起的小时候]] ===
+=== [[writting|关于写作]] ===
+=== [[why-I-program|我是不是真的喜欢编程-- 我为什么编程，为什么我会去学编程]] ===
+

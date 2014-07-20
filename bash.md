@@ -1,3 +1,10 @@
+`sudo ln -s /usr/bin/nodejs /usr/bin/node`
+
+因为是使用的apt-get install 方式安装，所以出现以上问题
+------
+删除有特殊字符的文件 `rm -- asdfasdf`
+------
+
 `cat >>myfile << EOF`
 
 命令行直接输入文件内容
