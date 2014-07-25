@@ -1,3 +1,11 @@
+http://www.vaikan.com/when-you-write-your-essays-in-programming-languages/
+
+编程语言和作文
+------
+http://www.vaikan.com/what-do-people-think-about-ie/
+
+每次看的ie那把枪我都笑喷了！
+------
 一个美女在吃糖葫芦，怎么问才能让她相信我不是来搭讪而是想知道糖葫芦在哪买的？
 ------
 7. 如果你碰到一个十分高效的ZF机关，多半是骗子

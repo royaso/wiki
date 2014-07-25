@@ -1,6 +1,70 @@
+http://www.2cto.com/os/201209/152692.html
+
+http://blog.sina.com.cn/s/blog_8978492b010194kj.html
+
+    samba实现自动挂载     1 fstab  2 /etc/rc.local (checked)
+------
+
+ubuntu的文件管理器连接到服务器
+
+sftp://root@11.1.1.1.1:102/root
+
+smb://root@ipad/main_readonly/
+
+------
+http://www.52cydia.com/debs/77.html
+
+http://wuchuang163.blog.163.com/blog/static/23071707520140101210349/
+
+
+samba   /etc/samba/smb.conf
+
+ipad 装samba 设置samba的root密码一直失败，最后还是用smbpasswd命令搞定，还是跟重启有关？
+
+有些问题，但重启后貌似就正常了  smbclient -L ipad -U root%ysh
+
+才发觉原来我早用上samba了，在goodreader里就可以了,没想到一个应用都自带samba一般传文件到ipad 是够用了，但不能操作pc上的文件，搜索下载了个filebrowser，试用下挺不错的，可以查看远程pc上的文件，一般操作也没问题，txt，pdf，mp3，mp4，jpg都可以直接看。现在就在听着《梦里花落知多少》，女主播声音挺好听，语速和语气我喜欢。
+
+smb还是给降级了，果然降级后就有smbclient，可以在ipad上访问ubuntu了。不过只有命令行，但有上面那个filebrowser就够了。
+
+本来想卸载的smb的，不过幸好之气百度搜索页面还在，正好瞄到说卸载smb有个问题，算了，直接安装低版本的覆盖安装就行了！
+
+用samba协议来mountipad到ubuntu
+
+原来smbfs被cifs取代了。。难怪ii smbfs失败
+
+sudo mount -t cifs //ipad/main_readonly/ /mnt/ipad -o  user=root,pass=sh,iocharset=utf8
+
+
+------
+装了个命令行文件管理器midnight commander
+mc 太屌了，居然支持用鼠标！！要知道我这是ssh上去的鼠标啊
+------
+从命令行打开应用
+
+open com.apple.mobilesafari
+
+open com.tencent.QQMusicHD
+
+open com.shanbay.book
+ 
+open com.saurik.Cydia
+
+Preferences:  com.apple.Preferences
+------
+ipad直接说中文，本来在bash下打不了中文的，但在zsh可以打中文，只是显示为数字而已，这样就可以说中文了。但还有更好的，直接在文件里打中文，然后say a.txt 是不行的，提示说要直接在say后面输入字符，那就吧这个当初一条命令写在a.sh里就可以了，再配合下面launchctl，完美啊。。不过中文貌似读的不错，就是英文差了点，看看是不是系统语言的问题
+
+
+ipad 用vim重命名中文乱码文件
+------
+veency
+
+连接投影仪
+------
     ipad/mac使用launchctl定时运行程序
 
 http://www.2cto.com/os/201305/215350.html
+
 
 ~mobile/LauchAgents/com.royaso.plist
 ------

@@ -1,7 +1,15 @@
  = 求美女 =
 == [[know-my-self|认识我自己]] ==
 == [[write|哪有什么没得写的？！]] ==
+ == 欢迎骚扰，你懂的 BM-2cSsuQ7gvLu8PNBZCT3Fn1EH1AUYBkZXRD ==
 ----------
+不要说你人微言轻，有些事只是态度问题，如果你说你没态度，当我没说
+
+當小女孩向街頭表演者投幣之後。。。神奇的事情發生了！！！ 
+
+我们的内心还是向往善良正直的
+
+那个小孩他老爸就不怕他从街灯上掉下来？
 
  = [[girl/|女博主点这里]] =
 
@@ -11,24 +19,25 @@
 
 
         - [ ] yeah! almost forget! blog like your publish your book!
+        - [ ] jos.jd.com
         - [ ] 以写书的方式更新，最终成书
         - [ ] 貌似很久没受伤了，没再跌倒过，流血什么的
         - [ ] 早知道早幸福，这是一本书名
         - [ ] 找女朋友的问题
         - [ ] 看重自己的价值！懂得拒绝!
         - [ ] 开发自己的网店程序
-        - [ ] ipad 既然安装了lighttpd，就把git生成的html也搞下吧，以后弄php和mysql
+        - [X] ipad 既然安装了lighttpd，就把git生成的html也搞下吧，以后弄php和mysql
         - [ ] 所以，todo list ：add --> get a certification
         - [ ] 舍弃，一对夫妇，搬家，东西都留下。舍友，4年辛苦笔记，离校，舍下
         - [ ] 吐槽mac设置，tult视频
         - [ ] 原创，seo，转载
         - [ ] 在很早很早以前，我就喜欢一句话：一个人总得实践他所相信的东西。 [[why-I-program|我是不是真的喜欢编程]]
-        - [ ] goodbook for sync, ipad vim to write
+        - [O] goodbook for sync, ipad vim to write
         - [ ] what you are , that will attract poeple like you!
         - [ ] good blog from ruanyifeng.com commenters
         - [ ] n 有人说财务自由是个骗局，活在当下
         - [ ] 加入过几个Q群，not what i expected
-        - [ ] a movie ( 9 person in a room)
+        - [O] a movie ( 9 person in a room)
         - [ ] what is unique in blog. Your Values!!
         - [ ] 我的浏览器firefox
         - [ ] QQmail webpage , an intereseting pic
@@ -84,4 +93,9 @@
 === [[childhood|想起的小时候]] ===
 === [[writting|关于写作]] ===
 === [[why-I-program|我是不是真的喜欢编程-- 我为什么编程，为什么我会去学编程]] ===
-
+=== [[story|小故事]] ===
+=== [[whylinuxisbetter|为什么linux更好，为什么我用ubuntu]] ===
+=== [[translation|我的翻译]] ===
+=== [[someone|有的人--请告诉我曾经也纯洁过]] ===
+=== [[about-about|关于关于]] ===
+=== [[my-ipad|我的ipad有什么]] ===

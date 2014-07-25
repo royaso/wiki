@@ -1,3 +1,30 @@
+路由器还可以telnet？！
+------
+focus on mouse
+
+gnome-tweak-tool 
+
+窗口-->focus mode = mouse
+{{{
+gsettings set org.gnome.desktop.wm.preferences focus-mode 'sloppy'
+
+gsettings set org.gnome.desktop.wm.preferences focus-mode 'mouse'
+
+gsettings set org.gnome.desktop.wm.preferences auto-raise true
+
+gsettings set org.gnome.desktop.wm.preferences auto-raise-delay 500
+
+gsettings set org.gnome.desktop.wm.preferences raise-on-click false
+
+
+gconftool-2 --type string --set /apps/metacity/general/focus_mode mouse
+
+gconftool-2 --type boolean --set /apps/metacity/general/auto_raise true
+
+gconftool-2 --type integer --set /apps/metacity/general/auto_raise_delay 600
+
+}}}
+------
 `sudo ln -s /usr/bin/nodejs /usr/bin/node`
 
 因为是使用的apt-get install 方式安装，所以出现以上问题
@@ -270,4 +297,5 @@ gThumb
 gmusicbrowser
 deepin-music-player http://www.linuxidc.com/Linux/2014-05/101789.htm
 deepin-media-player
+cmus  :music player like mocp
 }}}

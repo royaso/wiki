@@ -1,3 +1,9 @@
+
+旅行，写作，编程
+
+
+http://www.vaikan.com/traveling-writing-programming/
+------
  = 欢迎向我推荐各种有趣的人有趣的事有趣的想法有趣的文章 =
 
 欢迎自荐！！
