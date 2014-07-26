@@ -1,24 +1,21 @@
- = 求美女 =
-== [[know-my-self|认识我自己]] ==
-== [[write|哪有什么没得写的？！]] ==
- == 欢迎骚扰，你懂的 BM-2cSsuQ7gvLu8PNBZCT3Fn1EH1AUYBkZXRD ==
+ = [[girl/|求美女]] =
+ === 欢迎骚扰，你懂的 BM-2cSsuQ7gvLu8PNBZCT3Fn1EH1AUYBkZXRD ===
+
+==== 有评论或留言请发邮件`echo 'c29keWFAcXEuY29t' |base64 -d` ====
+
+==== 如果本博客你只看一个页面，那就看'[[about|关于]]'页面吧 ====
 ----------
-不要说你人微言轻，有些事只是态度问题，如果你说你没态度，当我没说
-
-當小女孩向街頭表演者投幣之後。。。神奇的事情發生了！！！ 
-
-我们的内心还是向往善良正直的
-
-那个小孩他老爸就不怕他从街灯上掉下来？
 
  = [[girl/|女博主点这里]] =
 
-== [[my-tryings|我的失败]] ==
 == [[wait-until-I-have-money|等我有了钱]] ==
 == 想写的东西 ==
 
 
         - [ ] yeah! almost forget! blog like your publish your book!
+        - [ ] ipad上也搭建好vimwiki吧
+        - [ ] alison 郭敬明和韩寒
+        - [ ] 面码
         - [ ] jos.jd.com
         - [ ] 以写书的方式更新，最终成书
         - [ ] 貌似很久没受伤了，没再跌倒过，流血什么的
@@ -99,3 +96,12 @@
 === [[someone|有的人--请告诉我曾经也纯洁过]] ===
 === [[about-about|关于关于]] ===
 === [[my-ipad|我的ipad有什么]] ===
+=== [[Y-copy-title-url|一键拷贝网页标题和网址]] ===
+=== [[ping-pong|打乒乓球]] ===
+=== [[user-chrome|uc脚本]] ===
+=== [[duckduckgo]] ===
+=== [[know-my-self|认识我自己]] ===
+=== [[write|哪有什么没得写的？！]] ===
+=== [[my-tryings|我的失败]] ===
+=== [[en/index|english-blog]] ===
+
