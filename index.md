@@ -104,4 +104,7 @@
 === [[write|哪有什么没得写的？！]] ===
 === [[my-tryings|我的失败]] ===
 === [[en/index|english-blog]] ===
-
+=== [[what-i-cant-get-rid-of-in-xp|windows下还有什么放不下的]] ===
+=== [[novels-I-read-when-I-was-young|那时候的我看过的网络小说]] ===
+=== [[just-because-I-was-wearing-boss|就因为哥当时穿了件BOSS]] ===
+=== [[love-about|恋爱随想]] ===
