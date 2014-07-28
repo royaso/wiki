@@ -1,3 +1,5 @@
+vim  q:  显示运行过的外部命令历史
+------
 路由器还可以telnet？！
 ------
 focus on mouse

@@ -8,7 +8,6 @@
 
  = [[girl/|女博主点这里]] =
 
-== [[wait-until-I-have-money|等我有了钱]] ==
 == 想写的东西 ==
 
 
@@ -75,7 +74,7 @@
 === [[joke|记得曾经被逗笑过]] ===
 === [[dese|发觉跟alison得瑟下会给自己快感，所以决定开个链接，专门得瑟alison的！嘿嘿]] ===
 === [[leigure|无聊时]] ===
-=== [[mooc]] ===
+=== [[mooc|在线网络课堂]] ===
 === [[vimwiki|vimki相关]] ===
 === [[mysql|远程连接数据库]] ===
 === [[health|程序员养生]] ===
@@ -108,3 +107,5 @@
 === [[novels-I-read-when-I-was-young|那时候的我看过的网络小说]] ===
 === [[just-because-I-was-wearing-boss|就因为哥当时穿了件BOSS]] ===
 === [[love-about|恋爱随想]] ===
+=== [[burst-into-tears|你看过哪段文字让你瞬间流泪]] ===
+=== [[firefox|我的火狐浏览器]] ===

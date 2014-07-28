@@ -1,3 +1,13 @@
+
+2014年 07月 28日 星期一 10:37:00 CST
+
+貌似samba出问题了，手机连不上，参考此文
+
+ubuntu下开启samba服务和windows共享文件 - findaway123的专栏 - 博客频道 - CSDN.NET
+
+http://blog.csdn.net/findaway123/article/details/6967010
+
+------
 http://www.2cto.com/os/201209/152692.html
 
 http://blog.sina.com.cn/s/blog_8978492b010194kj.html

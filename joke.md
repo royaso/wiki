@@ -1,3 +1,16 @@
+如何搭讪女程序员？ - 知乎
+
+http://www.zhihu.com/question/20058238
+
+我只是一直以来都有个『面向对象编程』的愿望，不知你能否帮我实现这个愿望呢？
+
+姑娘，你知道'hello world'的十种写法吗？
+
+我对Linux如何创建进程不是太理解，你介意下班后来我家研究一下么？
+
+姑娘，你上知乎么？我这有个问题想邀请你回答
+http://www.zhihu.com/question/20058238
+------
 http://www.vaikan.com/when-you-write-your-essays-in-programming-languages/
 
 编程语言和作文
