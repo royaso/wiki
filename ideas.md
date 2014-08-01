@@ -1,3 +1,6 @@
+
+看着《》想写自己的小说,或者说故事，这两者有什么不同，故事可以没有人物，或者人物可以没有名字。
+------
 不要偷黑客的东西
 
 http://www.vaikan.com/why-you-dont-steal-from-a-hacker/

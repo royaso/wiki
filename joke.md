@@ -1,3 +1,16 @@
+{{http://ww2.sinaimg.cn/bmiddle/642beb18gw1eikhur3ob9j20c86o11kx.jpg}}
+
+鬼屋拍到人被吓到的样子
+------
+
+不爱请走开 锤子T1手机爱极客有情怀评测—在线播放—优酷网，视频高清在线观看
+
+http://v.youku.com/v_show/id_XNzQzNDM2ODAw.html
+
+哥又笑了，最后以后又是很平常普通的结束语，没想到
+
+"其实我觉得我的声音，挺好听的呀"
+------
 如何搭讪女程序员？ - 知乎
 
 http://www.zhihu.com/question/20058238

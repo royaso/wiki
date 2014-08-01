@@ -103,6 +103,8 @@ applinks
 
 就当是安装完成吧，测试localhost失败，发觉lighttpd没启动，这个要.conf配置文件的
 
+`lighttpd -f /etc/lighttpd/lighttpd.conf`
+
 去官网看配置吧
 
 --

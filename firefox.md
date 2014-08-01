@@ -1,3 +1,16 @@
+
+扩展 - 标签页管理器 - Firefox火狐中文社区
+
+http://mozilla.com.cn/addon/103-tab-improved-lite/
+
+我要的功能：新建的标签页在当前标签页打开,之前一直是在最右侧打开，而我又开那么多标签页，所以很不方便
+
+------
+火狐 随心设置右键搜索引擎，且新标签后台打开_互联网_百度经验
+
+http://jingyan.baidu.com/album/359911f50ad52157fe030621.html
+
+------
 Firefox 和 Chrome 相比有什么优点？ - 知乎
 
 http://www.zhihu.com/question/20649747

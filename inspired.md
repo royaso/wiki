@@ -1,5 +1,12 @@
 %toc
 
+雷云风暴_起点中文网
+
+http://me.qidian.com/authorIndex.aspx?id=13342
+
+
+雷云风暴_到现在还在以每天一更的速度更新着从零开始
+------
 
  == IF it is easy, everyone would do it. It gets harder and you quit? ==
 -------
