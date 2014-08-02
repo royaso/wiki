@@ -1,3 +1,77 @@
+强制更新push 用于reset后
+
+git reset --hard HEAD
+
+饿，其实就是强制push，不管是不是reset，就算全新或完全不同的repo，只要remote origin是此repo的话都可以！
+git push origin +master
+
+------
+ubuntu 清除dns缓存
+sudo /etc/init.d/dns-clean start
+------
+gnome-session-properties
+
+开机启动项
+
+------
+ipad上的screen中文乱码
+
+在/etc/screenrc 加入中文编码
+
+{{{
+
+defencoding utf-8
+encoding utf-8 utf-8
+}}}
+------
+恢复默认滚动条
+
+
+    gsettings set com.canonical.desktop.interface scrollbar-mode normal
+
+隐藏式滚动条
+
+    gsettings reset com.canonical.desktop.interface scrollbar-mode
+------
+Betty：和你的Linux说说话 - 桌面应用
+
+http://linux.cn/article-3453-1.html
+
+`ysh whats my username`
+------
+
+    login shell 启动--->读取/etc/porfile文件--->读取~/.bash_profile文件
+    no-login shell 启动--->读取~/.bashrc文件
+    exec env -i /bin/bash命令会开启一个全新的non-login shell。
+
+su - lfs #注意中间这个 - 符号是一定要的，代表为lfs用户启动一个login shell 
+------
+关于SVG文件在Firefox中正确显示的研究 - DZQABC - 博客园
+
+http://www.cnblogs.com/dongzhiquan/archive/2009/10/10/1994727.html
+
+
+svg 在火狐firefox中显示， 在hight后面
+
+`xmlns="http://www.w3.org/2000/svg"`
+------
+怎样在 Ubuntu Unity Dash 添加关机、重启选项 shutdown - 技术
+
+http://linux.cn/article-2652-1.html
+
+
+------
+sublime text 中文输入
+
+点滴记录——在Ubuntu 14.04中使SublimeText 3支持中文输入法 - Cynric 的博客 - 博客频道 - CSDN.NET
+
+http://blog.csdn.net/cywosp/article/details/32350899
+
+`LD_PRELOAD=/home/roya/d/sublime_text/sublime_text_3/sublime_text_fcitx.so st $1`
+
+------
+vim  q:  显示运行过的外部命令历史
+------
 路由器还可以telnet？！
 ------
 focus on mouse

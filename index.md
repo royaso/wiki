@@ -1,5 +1,5 @@
-aaaa
- = [[girl/|求美女]] =
+
+ [[=]] [[girl/|求美女]] =
  === 欢迎骚扰，你懂的 BM-2cSsuQ7gvLu8PNBZCT3Fn1EH1AUYBkZXRD ===
 
 ==== 有评论或留言请发邮件`echo 'c29keWFAcXEuY29t' |base64 -d` ====
@@ -9,11 +9,11 @@ aaaa
 
  = [[girl/|女博主点这里]] =
 
-== [[wait-until-I-have-money|等我有了钱]] ==
 == 想写的东西 ==
 
 
         - [ ] yeah! almost forget! blog like your publish your book!
+        - [ ] 专注一个页面，尽量不开太多标签页，最好做到不保留上次的标签页
         - [ ] ipad上也搭建好vimwiki吧
         - [ ] alison 郭敬明和韩寒
         - [ ] 面码
@@ -76,7 +76,7 @@ aaaa
 === [[joke|记得曾经被逗笑过]] ===
 === [[dese|发觉跟alison得瑟下会给自己快感，所以决定开个链接，专门得瑟alison的！嘿嘿]] ===
 === [[leigure|无聊时]] ===
-=== [[mooc]] ===
+=== [[mooc|在线网络课堂]] ===
 === [[vimwiki|vimki相关]] ===
 === [[mysql|远程连接数据库]] ===
 === [[health|程序员养生]] ===
@@ -109,3 +109,10 @@ aaaa
 === [[novels-I-read-when-I-was-young|那时候的我看过的网络小说]] ===
 === [[just-because-I-was-wearing-boss|就因为哥当时穿了件BOSS]] ===
 === [[love-about|恋爱随想]] ===
+=== [[burst-into-tears|你看过哪段文字让你瞬间流泪]] ===
+=== [[firefox|我的火狐浏览器]] ===
+=== [[money-spended-on-site|建站开销？]] ===
+=== [[quiz|我问你答]] ===
+=== [[long-hair|长发飘飘]] ===
+=== [[p4550|我的手机]] ===
+=== [[mail-from-terminal-using-smpt|用smtp协议在终端下发送邮件--我这是忘GEEK上靠拢啊]] ===

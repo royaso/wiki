@@ -1,3 +1,13 @@
+
+2014年 07月 28日 星期一 10:37:00 CST
+
+貌似samba出问题了，手机连不上，参考此文
+
+ubuntu下开启samba服务和windows共享文件 - findaway123的专栏 - 博客频道 - CSDN.NET
+
+http://blog.csdn.net/findaway123/article/details/6967010
+
+------
 http://www.2cto.com/os/201209/152692.html
 
 http://blog.sina.com.cn/s/blog_8978492b010194kj.html
@@ -92,6 +102,8 @@ applinks
 没办法用外国源安装了，重启cydya几次，就差主程序了，其他都安装好了
 
 就当是安装完成吧，测试localhost失败，发觉lighttpd没启动，这个要.conf配置文件的
+
+`lighttpd -f /etc/lighttpd/lighttpd.conf`
 
 去官网看配置吧
 

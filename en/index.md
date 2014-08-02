@@ -1,5 +1,8 @@
 %toc
 
+You don't get shit you dont ask for.It's the people who dont ask that dont get shit
+------
+
  = my english blog =
 
 ==== first post ====
