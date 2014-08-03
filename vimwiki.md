@@ -1,3 +1,19 @@
+中午又折腾 vimwiki了
+
+现在情况是有三个地方
+
+一个在ubuntu，两个在ipad
+
+ipad上新增了root账号的，因为空repo自动更新到web位置用root比较简单，没有mobile的权限问题，这样要更新到ipad本地的web就用root账号，也可以同时更新到royaso.com
+
+维护还是老样子，不管在哪里，只要不是跟上次更新的环境一样，就要先pull，不管是pull网页文件html还是wiki，这样就应该没错了。
+
+root要更新本地web还是在html里push
+
+对了，还发现用root账号直接copy  mobile账号~mobile/.vim里的文件就可以完全复制vim的插件和各种设置，当然也要复制.vimrc
+
+
+------
 
 终于成功了！！ipad上的vimwiki，没想到居然是这么简单！！！
 

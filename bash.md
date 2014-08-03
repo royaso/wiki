@@ -1,3 +1,16 @@
+apache htaccess
+
+1 a2enmod rewrite
+
+2 apache2.conf -- override all
+
+3 site_document_root .htaccess 
+------
+无意中按到一个快捷键vim shift+k 可以查看man 当前光标下的关键字
+
+
+tail -f a.txt 实时查看文件
+------
 强制更新push 用于reset后
 
 git reset --hard HEAD

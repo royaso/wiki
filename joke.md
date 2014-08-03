@@ -1,3 +1,13 @@
+这是年度最佳进球庆祝动作。
+------
+只有程序员才可以看懂的漫画_IT新闻_博客园
+
+http://news.cnblogs.com/n/214608/
+
+这是从大名鼎鼎的 xkcd 上来的：你真的给你的儿子取名为“Robert’) DROP TABLE Students; –”吗？我想你看懂了。
+
+*我想你这下学到要过滤输入了吧.如果这家长和老师是有多年怨念的话，怨念太深了*
+------
 {{http://ww2.sinaimg.cn/bmiddle/642beb18gw1eikhur3ob9j20c86o11kx.jpg}}
 
 鬼屋拍到人被吓到的样子
