@@ -1,3 +1,115 @@
+用威风论坛的方法，是很简单，但他提供的第一个例子就make不过
+
+就返回原来方法，用$THEOS/bin/nic.pl
+
+被kill就ldid 然后make，这次出错信息就不一样了，明显进入到下一步，仔细一看，貌似就是我傍晚一直卡在的出错信息
+
+ldid -S clang++试试看
+
+上步可以，但新问题
+
+'stdarg.h' file not found
+
+貌似是sdks的框架问题
+
+找到并复制了stdarg.h
+/var/mobile/royaso/theos/sdks/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/
+
+这个h文件又找不到另外的h文件
+
+
+2014年 08月 05日 星期二 00:38:18 CST
+
+不折腾了
+------
+ vim --cmd "set encoding=utf-8" test.txt
+------
+killall SpringBoard
+------
+真是太幸运了！
+
+自己编译的vim是在这里　/usr/local/bin/vim --version　7.3版的
+
+cydia安装的vim是在 /usr/bin/vim --version  7.1
+
+自己编译的好处当然多啦，中文支持啊！！泪流满面的那时候啊。
+
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/bin/X11:/usr/games
+
+更幸运的是路径在前面，所以用的还是自己编译的！！
+
+刚才要安装bigboss recommended tools 想要在ipad上直接搭建软件环境theos，一看里面有vim，犹豫再三，还是决定安装了，就算真的覆盖了，没时间马上再次编译，反正真的在ipad上vimwiki的时间不多。
+
+但真的担心啊，担心这次就没那么幸运可以编译成功，我还记得那次编译等了很久，一个晚上都没通过，后来是自己一条命令一条命令打过去的，才成功啊！！
+
+才发现用root显示的是英文的欢迎，用mobile显示中文欢迎
+
+恩，一开始一直找可以备份vim的方法，但我这个vim是编译的，他们提供的一般是已安装的列表，估计就是重新安装一遍
+
+等我点下安装bigboss recommended tools 才想到，我应该搜索下怎么把编译的vim打包成deb然后host到自己网站上，这样以后就直接安装了啊
+
+Compile For Cydia Submission | Submit Apps
+
+http://thebigboss.org/hosting-repository-cydia/submit-your-app/compile-for-cydia-submission
+
+
+
+Theos/Setup - iPhone Development Wiki
+
+http://iphonedevwiki.net/index.php/Theos/Setup
+
+#  bigboss tools
+#  installtheos3
+#  add source.list
+#  install perl and theos
+
+start new instant  
+
+perl $THEOS/binn/nic.pl
+
+
+出错‘first argument to `word' function must be greater than 0.  Stop.’
+
+ 解决： Retrieving SDKs
+
+记得曾经在威风论坛有sdk，原来就早就下载了，还有vim呢。。拷贝到thoes/sdk
+
+
+接着来make package 然后又出错 Clang命令没找到，看安装thoes教程，往上看，才知道还要下面的工具
+
+The "iOS Toolchain" package
+
+先安装　Darwin CC Tools　在bigboss 源　才能安　ios toolchain
+
+clang++ llvm 
+
+龟速下载，能下就好！
+
+晕，好不容易下了，安装的时候崩溃
+
+说要这个命令运行'dpkg --configure -a'
+
+又一轮漫长等待，还没吃完饭啊alison
+2014年 08月 04日 星期一 19:40:19 CST
+
+一直崩溃
+
+想直接命令行安装，找不到下载的deb，截图，搜索，还是下载慢，vps下载完成，赶紧保存网盘
+
+clang一直被kill 不能make package
+
+2014年 08月 04日 星期一 20:58:31 CST
+
+吃饭吧
+
+回来试下这个
+
+在 iPhone 或 iPad 安装 iphone gcc llvm-clang, THEOS 编译程序或插件 - iPhone App开发外包专区 - 威锋论坛 - 威锋网
+
+http://bbs.feng.com/read-htm-tid-5259660.html
+
+
+------
 
 2014年 07月 28日 星期一 10:37:00 CST
 

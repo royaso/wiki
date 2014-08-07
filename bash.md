@@ -1,3 +1,79 @@
+svn 超简单教程，还是自己摸索的，git果然有帮助
+
+1 svn add a.txt
+
+2 svn commit a.txt
+------
+Linux 终端字符颜色设置
+
+http://www.phpfans.net/article/htmls/200905/MjczMTI4.html
+
+
+echo -e "\\033[0;32mtest"
+------
+php command line 命令行
+
+php -a
+
+echo 6+4;
+
+php提示符
+
+#cli.prompt=hello world :> 
+
+ #cli.prompt=`echo date('H:i:s');` php > 
+
+提示符颜色变量设置
+
+#cli.prompt=\e[032m\v \e[031m\b \e[34m\> \e[0m
+
+php 内置浏览器
+
+PHP: Built-in web server - Manual
+
+http://php.net/manual/en/features.commandline.webserver.php
+
+0.0.0.0:8000
+
+ php -S localhost:8889   
+------
+google tts txt发音
+
+
+wget 'http://translate.google.com/translate_tts?tl=zh&q=%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0' -O like.mp3
+
+wget 'http://translate.google.com/translate_tts?tl=en&q=text' -O jj.mp3
+------
+ssh rsync port 备份  ~/work/myrsync.sh 700 用ssh连接比较简单，配置好无密码登陆就行
+
+1 不知道vps要不要先开启rsync 
+
+chkconfig rsync on  | chkconfig --list |grep rsync
+
+?  /etc/xinetd.d/rsync   disable = on
+
+reboot | lsof -i :873
+
+? rsync --daemon
+
+不同端口
+
+`rsync -av -e ssh $basedir ${id}@${host}:${remotedir}`
+
+
+` rsync -e "ssh -p 1234" -avz --bwlimit=3000 REMOTE_HOST:data_path .`
+
+
+{{{
+
+
+[root@node1 backup]# crontab -e
+
+*/5 * * * * /backup/rsync.sh > /dev/null
+}}}
+
+注意 crontab 都要用绝对路径
+------
 apache htaccess
 
 1 a2enmod rewrite
@@ -5,6 +81,8 @@ apache htaccess
 2 apache2.conf -- override all
 
 3 site_document_root .htaccess 
+
+4. 因为我的ci是在子目录，所以要相应修改RewriteRule ^(.*)$ index.php\$1 [L]
 ------
 无意中按到一个快捷键vim shift+k 可以查看man 当前光标下的关键字
 
