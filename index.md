@@ -1,3 +1,5 @@
+ipad看美女啦
+------
 走出浮躁的泥沼：仅专注就能胜过大部分人 -- 简明现代魔法
 
 http://www.nowamagic.net/librarys/veda/detail/2313
@@ -78,6 +80,8 @@ http://www.nowamagic.net/librarys/veda/detail/2313
 === [[flash|ubuntu火狐不能观看优酷视频原因及解决]] ===
 2014-07-10 成功恢复崩溃后的火狐标签页 我真是太帅了！！
 
+菜单栏里选择‘恢复上一次回话'
+
 
 === [[program-is-hard|编程很难]] ===
 === [[recommand|欢迎向我推荐各种有趣的人有趣的事有趣的想法有趣的文章]] ===
@@ -133,3 +137,5 @@ http://www.nowamagic.net/librarys/veda/detail/2313
 === [[p4550|我的手机]] ===
 === [[mail-from-terminal-using-smpt|用smtp协议在终端下发送邮件--我这是忘GEEK上靠拢啊]] ===
 === [[but-I-care|也许没人鸟你]] ===
+=== [[gu-shi-ci|老祖宗的传下来的古诗词]] ===
+=== [[t1|锤子手机我没有]] ===

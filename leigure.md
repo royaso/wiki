@@ -1,3 +1,34 @@
+30 Things To Do When you are Bored and have a Computer
+
+http://www.thegeekstuff.com/2010/03/30-things-to-do-when-you-are-bored-and-have-a-computer/
+
+恩，很适合我这样的人！
+
+# 看技术博客
+# 清理、备份文件
+# 看社交网,豆瓣，新浪，bilibili，QQ
+# 清理邮件
+# 换密码？！等我看了那篇《密码最佳实践再说》
+# 锻炼身体，户外走走看看美女
+# 搞搞自己的网站页面
+# 看看维基百科词条
+# youtube视频 linux，手机评测啊
+# 定个目标啊,列个清单啊，比如那个“等我有了钱”，在自己的这个站里看看有什么
+# 写东西啊，《等一个人咖啡》里的思萤也写小说哦
+# 看看man page
+# 清理系统，删除软件
+# 常用软件的快捷键啊 vim vimperator firefox
+
+------
+
+meng-mei-zi|跟着萌妹子恐怖游戏解说
+
+【Puss解说】吓尿向！！！千万不要一个人玩这个游戏~ - 哔哩哔哩 - ( ゜- ゜)つロ 乾杯~ - bilibili
+
+http://www.bilibili.com/video/av1377419/#page=2
+
+
+------
 《听过很多道理，依旧过不好这一生》的句子_经典语录_名言_句集_句子迷
 
 http://www.juzimi.com/album/420849

@@ -1,3 +1,12 @@
+ plutil -covert xml1 [filename  	转化plist为xml
+------
+sftp root@ipad - get 下载ipad文n件
+
+------
+ ssh root@ipad 'reboot' 一键重启ipad
+
+ssh root@ipad 'killall SpringBoard'
+------
 用威风论坛的方法，是很简单，但他提供的第一个例子就make不过
 
 就返回原来方法，用$THEOS/bin/nic.pl

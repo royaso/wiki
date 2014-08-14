@@ -1,3 +1,50 @@
+Git 获取远程分支 - WNFK - 博客园
+
+http://www.cnblogs.com/hanxianlong/archive/2012/09/10/2678659.html
+
+git fetch
+
+git checkout -b localbranch orgin/remotebranch
+
+
+
+Git中从远程的分支获取最新的版本到本地 - - 博客频道 - CSDN.NET
+
+http://blog.csdn.net/chb2000/article/details/6976022
+
+git fetch origin master:tmp
+
+git diff tmp
+
+git merge tmp
+
+------
+This can be done using Python 2.x by running python -m SimpleHTTPServer or Python 3.x with python -m http.server 
+
+using Ruby by installing and running asdf,
+------
+mysql 随机取出记录
+{{{
+SELECT *
+FROM `table` AS t1 JOIN (SELECT ROUND(RAND() * ((SELECT MAX(id) FROM `table`)-(SELECT MIN(id) FROM `table`))+(SELECT MIN(id) FROM `table`)) AS id) AS t2
+WHERE t1.id >= t2.id
+ORDER BY t1.id LIMIT 1;
+}}}
+------
+php5-sqlite ii安装
+------
+google pagespeed 安装
+
+Apache加速模块mod_pagespeed安装使用详细介绍_Linux/apache_脚本之家
+
+http://www.jb51.net/article/48065.htm
+
+
+------
+屏幕录像
+
+sudo apt-get install gtk-recordmydesktop 
+------
 svn 超简单教程，还是自己摸索的，git果然有帮助
 
 1 svn add a.txt
