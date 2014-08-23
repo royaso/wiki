@@ -1,3 +1,11 @@
+------
+
+以前一直抱怨ipad的边框太宽，占用了不少屏幕面积，导致可视面积缩小，现在才知道原来宽边框可以防止误操作，比较好手持，而且现在的可视面积也够了，再大就浪费电
+------
+unlock 嘿嘿 自动解锁ipad屏幕
+------
+ Voice Reader Text To Speech
+------
  plutil -covert xml1 [filename  	转化plist为xml
 ------
 sftp root@ipad - get 下载ipad文n件

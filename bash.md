@@ -1,3 +1,71 @@
+phatch 图片批处理
+------
+ grep -r -i roy
+------
+自动换壁纸 variety ppa
+------
+indicator-multiload 系统运行指示
+------
+Whatever you're learning, if you want to learn it fast and keep that knowledge with you all your life, then do this:
+1) Install Anki.
+2) Learn to use it.
+3) Stick to it.
+By far one of the most important pieces of software I've ever found out!
+------
+网页背景色yong用gm设置成我站点的背景色，现在舒服多了，#e6e6e6，感觉整个互联网都被我站点同化了！哇哈哈哈 愚蠢的地球人
+------
+pcman file manager
+------
+find -inum 1704875 -exec rm {} \; 删除乱码文件
+------
+for file in * ;do sed -i '/google/d' $file;done
+------
+xx=$(eval pwd)
+------
+dialog --msgbox 'you are handsome' 222 222
+
+dialog/Xdialog使用範例（Linux/bash）
+
+http://www.360doc.com/content/11/0928/15/834950_151898745.shtml
+
+
+mytime=`dialog --stdout -title 'title here' --calendar 'title calneder' 0 0 8 8 1999`
+------
+inotify-tools
+
+unison
+
+incron
+
+inoticoming
+------
+       ssh-copy-id –i .ssh/id_rsa.pub user1@192.168.0.101
+------
+read -s name  输入密码不回显 echo $name
+
+------
+Home · bard/mozrepl Wiki
+
+https://github.com/bard/mozrepl/wiki
+
+
+MozRepl
+------
+command line - Close current tab firefox using terminal - Ask Ubuntu
+
+http://askubuntu.com/questions/295584/close-current-tab-firefox-using-terminal
+
+
+wmctrl -a firefox
+
+命令行控制程序窗口
+------
+设置LANG
+
+v /etc/default/locale
+------
+复制为curl命令
+------
 Git 获取远程分支 - WNFK - 博客园
 
 http://www.cnblogs.com/hanxianlong/archive/2012/09/10/2678659.html

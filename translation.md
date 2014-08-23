@@ -1,3 +1,7 @@
+ If that doesn't sit well with you, you can head over to the Mac App Store and buy a legit copy for yourself, so you can at least pirate with a clear conscience.
+
+如果良心不安，就去苹果商店买一份，这样你就能心安理得地“盗版”了.
+------
 According to Spreeder, a lot of us have trouble reading quickly because we can only read as fast as our “inner voice” can. 
 
 我们看书慢是因为我们默读，所以受限于默读的速度
