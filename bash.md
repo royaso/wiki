@@ -1,3 +1,15 @@
+ctrl+:  输入法剪贴板？
+------
+
+How To Install Java On Ubuntu 14.04 – 卡书
+
+http://www.kashu.org/3435.html
+
+In line copy and paste to system clipboard - Vim Tips Wiki
+
+http://vim.wikia.com/wiki/In_line_copy_and_paste_to_system_clipboard
+
+------
 phatch 图片批处理
 ------
  grep -r -i roy

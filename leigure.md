@@ -1,3 +1,8 @@
+
+------
+anki 
+
+------
 Linux新手大礼包：学习Linux你必须知道的那些事儿 - 分享
 
 http://linux.cn/article-3657-1.html

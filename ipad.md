@@ -1,3 +1,40 @@
+批量删除app
+
+pp助手  系统-设置-  ipainstaller/installipa force install
+
+------
+install ipa application without iTunes
+
+    Find your lovely application/game and download the .ipa file
+    Rename the .ipa file to xxx.zip(xxx is the name of the application/game)
+    Open the .zip file and extract it
+    You will see a xxx.app folder(xxx is the name of the application/game)
+    Transfer the xxx.app folder to your iphone via SSH to the /Applications folder
+    chmod 775 this xxx.app folder
+    Respring/Reboot and you are done!
+
+------
+ipad上gcc编译一直出错，说是ld什么host arm，bing搜索和百度搜索结果都差不多，然后google就靠谱多了，前三条就有一条是theos，我一看，我就知道有希望了，我有弄过这个theos，很可能是它的原因。然后cydia卸载掉theos安装过的，然后重新安装了iphone-gcc ldid，最后就成功了！
+
+太折腾了。又回到起点了。
+
+
+为ipad2安装和配置gcc编译环境 | 王恒's Blog
+
+http://wangheng.org/configure-gcc-on-ipad2.html
+
+------
+ios 越狱对我而言
+
+以前就只有一个原因：越狱后可以安装破解应用，不花钱。就这一条，其他的都是假的
+
+但现在在这条的基础上有更多的功能！
+
+以前都没想过ipad越狱后有这么多能玩的东西，就是我这一代的老古董也玩的了
+
+1、方便的复制黏贴 
+
+
 ------
 
 以前一直抱怨ipad的边框太宽，占用了不少屏幕面积，导致可视面积缩小，现在才知道原来宽边框可以防止误操作，比较好手持，而且现在的可视面积也够了，再大就浪费电
