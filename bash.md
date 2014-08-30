@@ -1,3 +1,25 @@
+he -fv #通常复制字体进~/.fonts就会自动刷新字体，如果没有，用这个命令，如果复制进的是/usr/share/fonts/，用sudo fc-cache -fv
+
+
+http://www.fixedsysexcelsior.com/fonts/FSEX300.ttf
+
+ubuntu 添加字体-ubuntu-搜狐博客
+
+http://ub33.blog.sohu.com/114670354.html
+
+
+------
+
+Gnome-keyring总是提示输入密码问题
+
+cd ~/.gnome2/keyrings/
+cp login.keyring login.keyring.backup
+rm ~/.gnome2/keyrings/login.keyring 
+------
+alsamixer 音量
+------
+autokey powerfull than autohotkey
+------
 ctrl+:  输入法剪贴板？
 ------
 
@@ -445,7 +467,7 @@ zsh!!
 http://linux.cn/article-1308-1.html
 
 {{{
-autojump ---> j -stat  : autojump -s : jo movie : j roya movie
+autocump ---> j -stat  : autojump -s : jo movie : j roya movie
 
 kill firefox
 

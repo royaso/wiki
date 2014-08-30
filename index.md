@@ -1,4 +1,14 @@
-[[我在什么情况下会回复和评论|when-will-i-comment]]
+[[罗永浩优酷对质王自如想到的|luo-vs-wang]]
+reinstall ubuntu for two days
+
+After install Ubuntu 14.04 LTS - Dsnc
+
+http://dsnc.me/blog/2014/05/12/install-ruby-in-ubuntu14-dot-04lts/
+
+
+------
+[[when-will-i-comment|我在什么情况下会回复和评论]]
+
 ------
 请 不要在最能吃苦的时候选择安逸
 ------
