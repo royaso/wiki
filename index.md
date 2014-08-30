@@ -1,4 +1,4 @@
-[[罗永浩优酷对质王自如想到的|luo-vs-wang]]
+[[luo-vs-wang|罗永浩优酷对质王自如想到的]]
 reinstall ubuntu for two days
 
 After install Ubuntu 14.04 LTS - Dsnc

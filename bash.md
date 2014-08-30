@@ -1,13 +1,8 @@
-he -fv #通常复制字体进~/.fonts就会自动刷新字体，如果没有，用这个命令，如果复制进的是/usr/share/fonts/，用sudo fc-cache -fv
+Git Status 中文乱码解决 - vipzrx - 博客园
 
+http://www.cnblogs.com/vipzrx/p/3488717.html
 
-http://www.fixedsysexcelsior.com/fonts/FSEX300.ttf
-
-ubuntu 添加字体-ubuntu-搜狐博客
-
-http://ub33.blog.sohu.com/114670354.html
-
-
+git config --global core.quotepath false
 ------
 
 Gnome-keyring总是提示输入密码问题
@@ -174,6 +169,17 @@ php提示符
 
 提示符颜色变量设置
 
+
+echo 6+4;
+
+php提示符
+
+#cli.prompt=hello world :> 
+
+ #cli.prompt=`echo date('H:i:s');` php > 
+
+提示符颜色变量设置
+
 #cli.prompt=\e[032m\v \e[031m\b \e[34m\> \e[0m
 
 php 内置浏览器
@@ -317,17 +323,6 @@ vim  q:  显示运行过的外部命令历史
 focus on mouse
 
 gnome-tweak-tool 
-
-窗口-->focus mode = mouse
-{{{
-gsettings set org.gnome.desktop.wm.preferences focus-mode 'sloppy'
-
-gsettings set org.gnome.desktop.wm.preferences focus-mode 'mouse'
-
-gsettings set org.gnome.desktop.wm.preferences auto-raise true
-
-gsettings set org.gnome.desktop.wm.preferences auto-raise-delay 500
-
 gsettings set org.gnome.desktop.wm.preferences raise-on-click false
 
 
