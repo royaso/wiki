@@ -1,8 +1,44 @@
-Git Status 中文乱码解决 - vipzrx - 博客园
+自动挂载ntfs分区
 
-http://www.cnblogs.com/vipzrx/p/3488717.html
+/dev/hda1 /media/windows ntfs utf8,umask=0222 0 0
+------
+ibus-daemon -x -d -r
+------
+/usr/share/doc/phpmyadin    there are other documents
 
-git config --global core.quotepath false
+man dpkg-recofigure
+
+debconf-show
+
+phpmyadmin 用apt安装后localhost/phpmyadmin 找不到
+
+ll /usr/share/phpmyadmin  原来在这，自己ln吧
+
+webmin 默认帐号就是登录帐号，搜索的时候才想起之前有这样做过印象
+------
+ubuntu 14.04 Server 如何安装 webmin | IMCN
+
+http://imcn.me/html/y2014/21254.html
+
+
+------
+ubuntu lamp web
+
+Ubuntu 14.04 LTS Server 安装 LAMP Server | IMCN
+
+http://imcn.me/html/y2014/20481.html
+
+
+------
+apt-cache search php5
+------
+git config --global core.excludesfile ~/.gitignore
+------
+Ubuntu 14.04 LTS Server 安装web LAMP Server_服务器应用_Linux公社-Linux系统门户网站
+
+http://www.linuxidc.com/Linux/2014-06/102919.htm
+
+
 ------
 
 Gnome-keyring总是提示输入密码问题
@@ -169,6 +205,12 @@ php提示符
 
 提示符颜色变量设置
 
+#cli.prompt=hello world :> 
+
+ #cli.prompt=`echo date('H:i:s');` php > 
+
+提示符颜色变量设置
+
 
 echo 6+4;
 
@@ -317,12 +359,6 @@ http://blog.csdn.net/cywosp/article/details/32350899
 
 ------
 vim  q:  显示运行过的外部命令历史
-------
-路由器还可以telnet？！
-------
-focus on mouse
-
-gnome-tweak-tool 
 gsettings set org.gnome.desktop.wm.preferences raise-on-click false
 
 

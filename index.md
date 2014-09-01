@@ -1,3 +1,7 @@
+[[no-money-no-girl|难道不是没钱就没女人吗？]]
+------
+ubuntu linux 太有的玩了，你能想象一个视频播放器居然有python插件！
+------
 [[luo-vs-wang|罗永浩优酷对质王自如想到的]]
 reinstall ubuntu for two days
 
