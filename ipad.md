@@ -1,3 +1,5 @@
+ubuntu network sftp://root@ipad/
+------
 批量删除app
 
 pp助手  系统-设置-  ipainstaller/installipa force install

@@ -1,3 +1,5 @@
+14.04 ubuntu caps_lock change to ctrl using gnome-tweak-tool
+------
 自动挂载ntfs分区
 
 /dev/hda1 /media/windows ntfs utf8,umask=0222 0 0

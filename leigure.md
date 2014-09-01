@@ -1,3 +1,12 @@
+整理下readitlatter
+------
+
+Apps - GNOME Wiki!
+
+https://wiki.gnome.org/Apps/
+
+
+------
 魔方
 ------
 anki 
@@ -11,7 +20,7 @@ http://linux.cn/article-3657-1.html
 ------
 发觉一个无聊可以做的事：ubuntu软件中心给安装过的软件评论,或者也可以看看别人的评论
 ------
-按键精灵 lua语言
+触摸精灵 lua语言
 ------
 xdotool wmctrl
 ------

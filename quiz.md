@@ -13,3 +13,10 @@
 ios和iso分别是什么？ipa和iap又是什么意思？
 
 长成这个熊样又没有钱就别谈恋爱了出自哪里
+
+You can code. They cannot. That is pretty damn cool.  出自哪里
+
+知识就是力量……法国就是熏肉  这是什么话
+
+I hate man pages without examples!  出自哪里，答对10分！
+
