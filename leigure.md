@@ -1,3 +1,13 @@
+视频：冏的呼唤 敖厂长
+------
+找不到话题了，可以去jianshu看看，比如这个
+
+我为什么不建独立博客 | 简书
+
+http://www.jianshu.com/p/NcYWyt
+
+
+------
 整理下readitlatter
 ------
 

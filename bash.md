@@ -1,3 +1,27 @@
+Python的包管理工具Pip - 大毛的部落 - 博客频道 - CSDN.NET
+
+http://blog.csdn.net/maowenbin/article/details/6622307
+
+
+pip install
+curl -O http://python-distribute.org/distribute_setup.py
+$ python distribute_setup.py
+------
+
+Ubuntu 安装软件备份工具 Aptik
+
+sudo add-apt-repository ppa:teejee2008/ppa
+------
+parcellite  clipboard
+------
+Ubuntu 14.04 及衍生版本安装 Tor Browser 3.6.3_Linux教程_Linux公社-Linux系统门户网站
+
+http://www.linuxidc.com/Linux/2014-08/105259.htm
+
+sudo add-apt-repository ppa:webupd8team/tor-browser
+------
+ubuntu postgresql  ii postgresql{,-client} php5-psql pgadmin3
+------
 14.04 ubuntu caps_lock change to ctrl using gnome-tweak-tool
 ------
 自动挂载ntfs分区

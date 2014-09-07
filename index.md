@@ -1,3 +1,18 @@
+ = [[girl/|求美女]] =
+
+ === 欢迎骚扰，你懂的 BM-2cSsuQ7gvLu8PNBZCT3Fn1EH1AUYBkZXRD ===
+
+==== 有评论或留言请发邮件`echo 'c29keWFAcXEuY29t' |base64 -d` ====
+
+==== 如果本博客你只看一个页面，那就看'[[about|关于]]'页面吧 ====
+----------
+%title 求美女
+
+ = [[girl/|女博主点这里]] =
+
+---------
+我还是喜欢被叫做博客，因为我想要被叫博主，因为就可以勾引无知女博主了
+------
 学编程一定要头脑清晰阿，思维严谨，否则就整天debug吧！
 
 我想的是阻挡打开的姿势('姿势'二字再次感谢ChoJemmy,可惜看其"关于页面"不像是个女的)不正确的和没有通关密码的人
@@ -56,17 +71,6 @@ http://www.nowamagic.net/librarys/veda/detail/2313
 细节处影响对一个人的形象和印象。。
 ------
 
- = [[girl/|求美女]] =
-
- === 欢迎骚扰，你懂的 BM-2cSsuQ7gvLu8PNBZCT3Fn1EH1AUYBkZXRD ===
-
-==== 有评论或留言请发邮件`echo 'c29keWFAcXEuY29t' |base64 -d` ====
-
-==== 如果本博客你只看一个页面，那就看'[[about|关于]]'页面吧 ====
-----------
-%title 求美女
-
- = [[girl/|女博主点这里]] =
 
 == 想写的东西 ==
 
@@ -184,3 +188,6 @@ http://www.nowamagic.net/librarys/veda/detail/2313
 === [[php]] ===
 === [[self-ask-self-answer|自问自答]] ===
 === [[diary-in-one-page|页以志只]] ===
+=== [[foreigner-in-baidu-kuaizi-promotion-video|百度宣传视频里抛头露面的老外]] ===
+=== [[from-baidu-one-step-way|从百度直达号说起]] ===
+=== [[chinese-own-os|中国人的操作系统  呵呵]] ===

@@ -1,3 +1,159 @@
+iphone-elite - iPhone Elite Development Team - Google Project Hosting
+
+https://code.google.com/p/iphone-elite/
+
+
+About us: We don't like secrecy, we don't take ourselves too seriously, and we're not out to make money. If you want to help, you can keep us company on IRC (we stay up very late) or send us iPhones (working or not) for testing. Monetary contributions are not accepted. If you have money you want to donate, please donate it to a good charity.
+
+The name "iPhone Elite" started out as a joke when the iPhone Dev Team forked due to some personality issues. Fortunately, these issues have long been resolved and the Dev Team and the Elite Team are basically reunited and are working together cooperatively.
+
+ACUJO is NOT and he has NEVER BEEN a member of this team He only offered the former irc server and then abused it. 
+------
+“过你就像过清晨的马路。”——佩顿 （真有画面感）
+------
+第一代程序员王小波_IT新闻_博客园
+
+http://news.cnblogs.com/n/502294/
+
+
+------
+很多伟大，都发生在一个年轻人应聘被拒绝后⋯⋯比如手机_IT新闻_博客园
+
+http://news.cnblogs.com/n/502225/
+
+“乔治先生，终有一天您会正眼看我的！”马丁出门的时候说了最后一句。
+
+很多人在应聘失败后都会说这么一句话，然后，就没有然后了。。。
+------
+类似“学生会主席”这样的经历对找工作有什么影响？
+
+我想到个笑话
+------
+百度筷搜亮相百度世界大会 可智能检测地沟油_IT新闻_博客园
+
+http://news.cnblogs.com/n/502984/
+
+
+希望他们不会后悔在百度工作过
+------
+关于本站 | 异次元软件世界
+
+http://www.iplaysoft.com/about
+
+
+题外话：抄袭党连我这个关于都不放过！
+
+网上抄袭我网站主题的我没力气去追究了，现在发现很多竟然连我的“关于”页面都抄袭，内容和本文基本一样，有些甚至完全抄袭只改了名字。我以绝对的RP保证，这篇文章是我原创，绝对正品，其他任何雷同均为仿造抄袭。强烈谴责与极度鄙视这些连About都要抄袭的人！！不过估计那些脸皮厚得比死皮还严重的连这一段都敢抄的……
+
+
+关于 - 俊彦博客
+
+http://jybb.me/about
+
+前面也说了我是一个懒人，懒人自然花时间写这篇文章，所以这篇文章是参考了自称懒人的小X ，不过我倒是写了个自传……   好了，回首页去转转吧
+
+--
+看到这段我很不爽！
+
+如果不是不屑他(异次元)的关于页面没什么，我他妈的还就抄袭了！！
+
+写出这些字的人，我也不欣赏！连抄袭都赖的抄袭！！
+
+------
+如何每天不写一千字 | 简书
+
+http://www.jianshu.com/p/15bdd3267c4b
+
+对他人无益未必对自己无益，但像我这样的话捞以后还是注意点
+
+
+很多都是制造话题，吸引眼球，没必要留下自己评论
+
+------
+当然，也有人说，独立博客备份文章方便，以后老了看——拜托，出门带上药，从你有独立博客以来，你系统地回顾过多少次以前写下的文字？备份的东西除了朝硬盘一放打开过么？况且，若说备份，有心的话在任何地方上写也可以很方便的备份。我想，一定也有人说，建独立博客可以赚取广告费用——拜托，为何放弃治疗，指望着独立博客能盈利，那么你拿出在它上面花费的一半时间去到酒店做份刷盘子的兼职，都比赚取广告费来得多来得快。
+
+想来想去，独立博客有一个好处，就是没有审查。其实呢，这是一个伪命题，如果你不写敏感内容，那么无所谓审查与否；如果你写敏感的内容，那么时间一长，肯定被封，抱着一个被封的心态写，那为何不选择国外的Blogger、Tumblr 等成熟的博客网站呢？
+
+国内博客的发展及黄金期是在2004-2008年，那时有很多的博客在每天更新，但现在再看那些曾经的独立博客，已经长满了荒草。我觉得，独立博客只是一种形式，有没有独立博客是一件无所谓的事情，甚至，没有独立博客更轻松。
+------
+深析 CLI vs GUI | Tyrant's Arch Linux
+
+http://arch.acgtyrant.com/2014/02/02/cli-vs-gui/
+
+
+後記
+
+    从Linux到Android再到其他种种，都有一群爱好折腾的人照着别人的教程改这改那，然后觉得自己特极客特专业特牛X。
+
+    Linux内核代码超千万行，还有下面的各种桌面、平台、编译器、库、软件，你给他们贡献过一行代码没？
+	{{{
+
+https://developer.mozilla.org/zh-CN/docs/Web/HTML/Introduction
+
+我翻译了MDN上HTML入门的一小部分！
+
+
+}}}
+
+在一心只玩 linux 的学生毕业后适合什么工作？提問中，有如此譏諷道。
+
+
+*有人如此讥讽道！*
+
+草！ 
+
+You can code and they can't, that is pretty damn Good!
+
+怎么就不能觉得自己牛逼拉！？
+
+我行你不行，我就是比你牛逼！
+
+你行你也搞出来阿
+
+"Talk is cheap, Show me the codes"
+
+说这话的人肯定自己做不来，只能用着出产设置，说这些话来打击别人。
+
+是，我是没给什么项目贡献过代码，因为我水平还不够，但我总有一天可能会做到，你丫呢！你丫有做什么了，站着说话不腰疼！
+
+对于这种人，我一定要用“踩”加以唾弃！
+
+而下面那样的回答我会收藏和感谢！
+
+对，我还会留言评论回复，以表支持！
+
+
+-----
+
+Linux吸引那些喜欢探索和研究，有冒险精神的人，然后不断地筛选掉其中不合适使用TA的人，最后留下的大多是有一定功底的，理解并赞同Linux哲学，并且很有可能会为社区作出贡献，反过来推动Linux发展的人。我发现我已经离不开Linux了，没有命令行我就觉得不舒服，感觉系统不是我的，我的手机是SailfishOS操作系统,一款基于Linux的，更Linux化的，带有terminal的移动操作系统;我喜欢在晚上睡觉前通过手机的ssh远程关闭隔壁房间的两台Linux电脑;我习惯定时地检查/var/log/目录下的所有文件，我能知道过去的一段时间电脑发生了什么;这些可能不是很好的习惯，但是我享受这些过程，因为我能感觉到系统是听命于我的。
+
+
+
+------
+
+一心只玩 linux 的学生毕业后适合什么工作？ - 知乎
+
+http://www.zhihu.com/question/20638258
+
+安装 Linux 系统本身真的什么都不是，连技巧都不是。
+
+单纯装系统玩，在一次两次之后，就纯属浪费时间了。 
+
+因为他们做这件事本身是带着目的去做的。当你想达到一个目标——如写一个应用——的时候，过程中做的每一件事都会对这个最终的目标形成有效积累。
+
+在了解原理（甚至阅读源代码）的前提下有目的地调整参数，摆脱百度和烂大街的人云亦云的“教程贴”。
+
+别总贪多，或者今天对这里感兴趣，明天又觉得那里好玩儿，说句实在话，贪多嚼不烂这个道理很多人都是在经历后才知道（包括我自己）。
+
+
+生命尼玛那么短暂，一眨眼二十年过去了，再一眨眼醒不醒得来的或者是不是日暮西山也未可知。
+
+
+
+尽量不要对某一技术有偏见，也不要做太多没有结果的事情。否则就会像我一样，连个工作都找不到。。。
+
+
+------
        I hate man pages without examples!
 						-- man xclip
 ------

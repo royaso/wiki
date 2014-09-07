@@ -20,3 +20,4 @@ You can code. They cannot. That is pretty damn cool.  出自哪里
 
 I hate man pages without examples!  出自哪里，答对10分！
 
+3721	你能想到什么

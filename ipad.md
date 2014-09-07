@@ -1,3 +1,7 @@
+ubuntu重装后openssh-server,ipad连接不上ubuntu，: ipad: ssh-keygen -R ysh
+------
+终于找到可以现实中文的方法了：com.linusyang.mosh  com.linusyang.localeutf8
+------
 ubuntu network sftp://root@ipad/
 ------
 批量删除app
