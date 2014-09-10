@@ -1,3 +1,9 @@
+ubuntu ipad 充电 
+
+sudo apt-get install  libusb-1.0-0-dev
+
+https://github.com/mkorenkov/ipad_charge
+------
 Python的包管理工具Pip - 大毛的部落 - 博客频道 - CSDN.NET
 
 http://blog.csdn.net/maowenbin/article/details/6622307
@@ -143,6 +149,20 @@ https://github.com/bard/mozrepl/wiki
 MozRepl
 ------
 command line - Close current tab firefox using terminal - Ask Ubuntu
+
+http://askubuntu.com/questions/295584/close-current-tab-firefox-using-terminal
+
+
+wmctrl -a firefox
+
+命令行控制程序窗口
+------
+
+
+wmctrl -a firefox
+
+命令行控制程序窗口
+------
 
 http://askubuntu.com/questions/295584/close-current-tab-firefox-using-terminal
 
@@ -624,20 +644,6 @@ http://www.youbangtuo.net/post/2012-07-21/40030364102
 
 delete other files except zip and iso
 
-`find . -type f -not \( -name '*.zip' -or -name '*.iso' \) -delete`
-
---------
-
- `${1}` 第一个参数
-        {{{
-vim scp://root@12.121.21.12:323/${1}
-
-useage: vimhost "/root/test.txt"
-}}}
-----
-
-{{{
-sudo pip install Beautifulsoup
 sudo pip uninstall Beautifulsoup
 }}}
 

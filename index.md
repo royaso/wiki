@@ -1,6 +1,6 @@
  = [[girl/|求美女]] =
 
- === 欢迎骚扰，你懂的 BM-2cSsuQ7gvLu8PNBZCT3Fn1EH1AUYBkZXRD ===
+=== 欢迎骚扰，你懂的 BM-2cSsuQ7gvLu8PNBZCT3Fn1EH1AUYBkZXRD ===
 
 ==== 有评论或留言请发邮件`echo 'c29keWFAcXEuY29t' |base64 -d` ====
 
@@ -10,114 +10,18 @@
 
  = [[girl/|女博主点这里]] =
 
----------
-我还是喜欢被叫做博客，因为我想要被叫博主，因为就可以勾引无知女博主了
-------
-学编程一定要头脑清晰阿，思维严谨，否则就整天debug吧！
-
-我想的是阻挡打开的姿势('姿势'二字再次感谢ChoJemmy,可惜看其"关于页面"不像是个女的)不正确的和没有通关密码的人
-
-现在想来这句话从编程角度来看有歧义，就像那个笑话一样
-
-老婆：去买点水果，如果大米促销，就买十斤
-
-结果程序员买了十斤水果
-
-
-所以应该是用“并且”的关系！！姿势和密码都不对的进不来。
-
-其他姿势漂亮的或者有钥匙的人可以进来
-
 
 ------
+2014年9月10日
 
-You can code. They cannot. That is pretty damn cool. 
+互联网之子 – Aaron Swartz | 酷 壳 - CoolShell.cn
 
-[[no-money-no-girl|难道不是没钱就没女人吗？]]
-2014年 09月 01日 星期一 08:07:33 CST
-------
-ubuntu linux 太有的玩了，你能想象一个视频播放器居然有python插件！
-------
-[[luo-vs-wang|罗永浩优酷对质王自如想到的]]
-reinstall ubuntu for two days
-
-After install Ubuntu 14.04 LTS - Dsnc
-
-http://dsnc.me/blog/2014/05/12/install-ruby-in-ubuntu14-dot-04lts/
+http://coolshell.cn/articles/11928.html
 
 
-------
-[[when-will-i-comment|我在什么情况下会回复和评论]]
-
-------
-请 不要在最能吃苦的时候选择安逸
-------
-我在上一版说过，我不会再发负能量了，百毒不侵了都
-------
-ipad看美女啦
-------
-走出浮躁的泥沼：仅专注就能胜过大部分人 -- 简明现代魔法
-
-http://www.nowamagic.net/librarys/veda/detail/2313
-
-你说你都算是有加上原文链接了，就不能再彻底点？光明正大地贴出来啊！还是抱着侥幸？！
-
-为什么要要这样说？
-
-还真是看你不错，才对你严格要求啊。。以前老师也是这样的心态？
-
-那些无良转载的你看我鸟他不？？！！
-
-细节处影响对一个人的形象和印象。。
-------
+看完此文，我决定撤销原先的访问限制，并且宣布“本博客曾经、现在以及将来的所有内容均无版权，请随意使用！”
 
 
-== 想写的东西 ==
-
-
-        - [ ] yeah! almost forget! blog like your publish your book!
-        - [X] 专注一个页面，尽量不开太多标签页，最好做到不保留上次的标签页
-        - [ ] vim打包deb，host
-        - [ ] ipad上也搭建好vimwiki吧
-        - [ ] alison 郭敬明和韩寒
-        - [X] 面码
-        - [ ] jos.jd.com
-        - [ ] 以写书的方式更新，最终成书
-        - [ ] 貌似很久没受伤了，没再跌倒过，流血什么的
-        - [ ] 早知道早幸福，这是一本书名
-        - [ ] 找女朋友的问题
-        - [ ] 看重自己的价值！懂得拒绝!
-        - [ ] 开发自己的网店程序
-        - [X] ipad 既然安装了lighttpd，就把git生成的html也搞下吧，以后弄php和mysql
-        - [ ] 所以，todo list ：add --> get a certification
-        - [ ] 舍弃，一对夫妇，搬家，东西都留下。舍友，4年辛苦笔记，离校，舍下
-        - [ ] 吐槽mac设置，tult视频
-        - [ ] 原创，seo，转载
-        - [ ] 在很早很早以前，我就喜欢一句话：一个人总得实践他所相信的东西。 [[why-I-program|我是不是真的喜欢编程]]
-        - [O] goodbook for sync, ipad vim to write
-        - [ ] what you are , that will attract poeple like you!
-        - [ ] good blog from ruanyifeng.com commenters
-        - [ ] n 有人说财务自由是个骗局，活在当下
-        - [ ] 加入过几个Q群，not what i expected
-        - [O] a movie ( 9 person in a room)
-        - [ ] what is unique in blog. Your Values!!
-        - [ ] 我的浏览器firefox
-        - [ ] QQmail webpage , an intereseting pic
-        - [ ] video script downloader: make my first vedio
-        - [ ] fuck you seo, iplaysoft,
-        - [ ] about friend links
-        - [ ] dont get seriouse about your birthday, everyday is equal.
-        - [ ] <我爱你> 木头
-        - [ ] motivational video
-        - [ ] "I am to old for this stuff" KTV
-        可以参考这篇 用什么浏览器更好高效地阅读  http://jianshu.io/p/66c95fe1f627
-	- [ ] 我真的需要一部大屏智能手机吗？
-	- [ ] 既要写也要回顾，以前的东西
-	- [ ] 扇贝苹果客户端评论换贝壳活动！ 从今天开始，凡是在iPhone或者iPad上下载扇贝系列客户端，并且评论打分（打分请客观，不要违心），评论中按照“shanbay:你的用户名”这个格式写上你的用户名，我们就会在24小时内赠送200贝壳！下载评论4个客户端，就送800！ 
-	- [ ] 我的兵器
-	- [ ] wikipedia.org
-	- [ ] 萧秋水  新浪微博
-	- [ ] about wiki 
 	
 ----------
 == 我折腾 == 
@@ -187,7 +91,7 @@ http://www.nowamagic.net/librarys/veda/detail/2313
 === [[t1|锤子手机我没有]] ===
 === [[php]] ===
 === [[self-ask-self-answer|自问自答]] ===
-=== [[diary-in-one-page|页以志只]] ===
+=== [[diary-in-one-page|页以志之]] ===
 === [[foreigner-in-baidu-kuaizi-promotion-video|百度宣传视频里抛头露面的老外]] ===
 === [[from-baidu-one-step-way|从百度直达号说起]] ===
 === [[chinese-own-os|中国人的操作系统  呵呵]] ===
