@@ -1,3 +1,21 @@
+About < M.J.
+
+http://www.mijia.org/blog/?page_id=2
+
+
+M.J.
+虚心实力 让我们面对现实 让我们忠于理想
+About
+
+人生最大的乐趣就是创造性的工作，编程就是这样。我是一名程序员，关注于Desktop Software、互联网技术、life hacking。
+
+只想好好做自己。
+Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma — which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.
+You have to trust in something — your gut, destiny, life, karma, whatever.
+
+不要急于下结论。不要小题大做。不要发明规则。避免给人扣帽子。别做完美主义者。不要夸大失败的教训或者成功的经验。不要老觉得别人在说你。不要老跟着感觉走。不要让生活拖垮你，学着乐观一些。不要在过去中不能自拔，生活还要继续。
+
+------
 如果你满足上述条件，祝福你，你在北京应该还在每天挤地铁 - 简书
 
 http://www.jianshu.com/p/e5f2e89d39b0

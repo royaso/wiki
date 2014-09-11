@@ -1,3 +1,28 @@
+ === 参与世界，希望不会太晚 ===
+
+今天早上，先是在mdn网站顶部看到
+
+U.S. visitors: Help Mozilla protect Net Neutrality by signing our petition to Congress (http://mzl.la/nnpetition) on Wednesday, September 10th! See our blog post to learn more: https://blog.mozilla.org/netpolicy/2014/09/04/a-day-of-action-to-protect-net-neutrality/
+
+然后这里 
+
+https://www.reddit.com/r/IAmA/comments/2fyjie/we_are_wordpresscom_namecheap_amanda_palmer/
+
+（ps：这个iama还真有意思，没想到那么多人有那么多问题想问一个农民）
+
+最后就是主站了
+
+Join the Battle for Net Neutrality
+
+https://www.battleforthenet.com/sept10th/
+
+
+大意就是，美国那边的isp（互联网服务提供商，就是咱们这边的电信，移动，联通宽带）要限制网络速度，各大组织机构号召大家抵制，我能认得的包括wordpress,mozilla,namecheap,reddit,tumblr,vimeo,imgurl。
+
+主要做法就是在你网站上显示个正在加载的提示，以向访客展示网络限速后的样子，以号召大家抵制.就像你看到的这样。
+
+现在是北京时间11号2014年9月11日，09时51分43秒，我不会算时差，就算是过了10号，我也想用我的行动表明我的支持和立场。因为昨天看coolshell的那篇关于Aaron Swarts的关系。一个年轻人阿，取得那么大成就，才26岁就去了.我为自己感到羞愧。所以开放限制,我不想站在他对立面。(PS：那小伙挺帅的）
+------
  = [[girl/|求美女]] =
 
 === 欢迎骚扰，你懂的 BM-2cSsuQ7gvLu8PNBZCT3Fn1EH1AUYBkZXRD ===

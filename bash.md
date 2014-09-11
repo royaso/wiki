@@ -1,3 +1,15 @@
+git error
+
+remote: fatal: unable to create thread: Resource temporarily unavailable
+
+Git pull fails with bad pack header error - Stack Overflow
+
+http://stackoverflow.com/questions/7362709/git-pull-fails-with-bad-pack-header-error
+
+git config --global pack.windowMemory "100m"
+git config --global pack.packSizeLimit "100m"
+git config --global pack.threads "1" 
+------
 ubuntu ipad 充电 
 
 sudo apt-get install  libusb-1.0-0-dev
