@@ -17,7 +17,14 @@ Join the Battle for Net Neutrality
 https://www.battleforthenet.com/sept10th/
 
 
-大意就是，美国那边的isp（互联网服务提供商，就是咱们这边的电信，移动，联通宽带）要限制网络速度，各大组织机构号召大家抵制，我能认得的包括wordpress,mozilla,namecheap,reddit,tumblr,vimeo,imgurl。
+大意就是，美国那边的isp（互联网服务提供商，就是咱们这边的电信，移动，联通宽带）要分级限制网络速度,简单说就是那些有钱的大公司可以多花钱让isp提供更大的带宽，相对的我们这些小网站就只能慢吞吞的了。
+
+网络中立性已死？美拟允许业者花钱换取较佳连线品质 | TechNews 科技新报
+
+http://technews.cn/2014/04/25/net-neutrality-going-dead/#more-22523
+
+
+各大组织机构号召大家抵制，我能认得的包括wordpress,mozilla,namecheap,reddit,tumblr,vimeo,imgurl。
 
 主要做法就是在你网站上显示个正在加载的提示，以向访客展示网络限速后的样子，以号召大家抵制.就像你看到的这样。
 
@@ -119,4 +126,4 @@ http://coolshell.cn/articles/11928.html
 === [[diary-in-one-page|页以志之]] ===
 === [[foreigner-in-baidu-kuaizi-promotion-video|百度宣传视频里抛头露面的老外]] ===
 === [[from-baidu-one-step-way|从百度直达号说起]] ===
-=== [[chinese-own-os|中国人的操作系统  呵呵]] ===
+=== [[my-comments|我在别处的留言和评论]] ===

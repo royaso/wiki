@@ -1,3 +1,20 @@
+speed up dash display-->using ccsm, set on-blur to no-blur
+------
+vim n **/*.txt
+:argdo %s/a/A/ge|update
+
+TOhtml
+------
+vim :g/^/m 0 反转行
+------
+mygit.sh cheat
+------
+git config --global core.quotepath false(  中文文件)
+------
+ii Build new apps quickly
+
+ii gnome do
+------
 git error
 
 remote: fatal: unable to create thread: Resource temporarily unavailable
