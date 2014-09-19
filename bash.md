@@ -1,3 +1,21 @@
+Generating QR Codes in Linux » Linux Magazine
+
+http://www.linux-magazine.com/Online/Features/Generating-QR-Codes-in-Linux
+
+
+------
+ii qrencode QtQR
+------
+apache2.conf add the path other than /var/www
+------
+remove ibus ; ii fcitx fcitx-pinyin
+
+(after installing, something went wrong with system setting panel)
+------
+recordMyDesktop--no sound
+
+Kazam  ---really worked just checkout sound from speakers
+------
 speed up dash display-->using ccsm, set on-blur to no-blur
 ------
 vim n **/*.txt
@@ -136,6 +154,8 @@ Whatever you're learning, if you want to learn it fast and keep that knowledge w
 1) Install Anki.
 2) Learn to use it.
 3) Stick to it.
+By far one of the most important pieces of software I've ever found out!
+------
 By far one of the most important pieces of software I've ever found out!
 ------
 网页背景色yong用gm设置成我站点的背景色，现在舒服多了，#e6e6e6，感觉整个互联网都被我站点同化了！哇哈哈哈 愚蠢的地球人
@@ -619,8 +639,6 @@ bash 与 或 命令
 ----------
 ubuntu 安装ffmpeg
 
-http://ask.xmodulo.com/compile-ffmpeg-ubuntu-debian.html
-
 ` sudo apt-get install git make nasm pkg-config libx264-dev libxext-dev libxfixes-dev zlib1g-dev `
 
 {{{
@@ -705,3 +723,5 @@ deepin-music-player http://www.linuxidc.com/Linux/2014-05/101789.htm
 deepin-media-player
 cmus  :music player like mocp
 }}}
+imagemagick
+zbar-tools
