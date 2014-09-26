@@ -1,3 +1,43 @@
+第 [mozlab] Lightweight MozRepl + Vim integration: Refresh Firefox, and restore scroll position on Vim save ! - Google 网上论坛 个
+
+https://groups.google.com/forum/#!topic/mozlab/dJrRJQv474E
+
+
+{{{
+autocmd BufWriteCmd  *.html,*.css,*.gtpl  : call Refresh_firefox() 
+
+function! Refresh_firefox()
+    if &modified
+        write
+        silent !echo  'vimYo = content.window.pageYOffset;
+                     \ vimXo = content.window.pageXOffset;
+                     \ BrowserReload();
+                     \ content.window.scrollTo(vimXo,vimYo);
+                     \ repl.quit();'  |
+                     \ nc -q 1 localhost 4242 2>&1 > /dev/null
+    endif
+endfunction 
+
+}}}
+------
+rlwrap  telnet 
+------
+git config --global credential.helper store 
+
+记住密码 
+------
+screen -x test
+
+c-a-c/w/n/p/d
+------
+centos
+
+cat /var/log/secure|awk '/Failed/{print $(NF-3)}'|sort|uniq -c|awk '{print $2"="$1;}'
+
+ubuntu
+
+cat /var/log/auth.log|awk '/Failed/{print $(NF-3)}'|sort|uniq -c|awk '{print $2"="$1;}'
+------
 Generating QR Codes in Linux » Linux Magazine
 
 http://www.linux-magazine.com/Online/Features/Generating-QR-Codes-in-Linux
@@ -725,3 +765,4 @@ cmus  :music player like mocp
 }}}
 imagemagick
 zbar-tools
+keynav
