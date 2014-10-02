@@ -1,3 +1,11 @@
+How to look up dictionary via command line on Linux - Linux FAQ
+
+http://xmodulo.com/how-to-look-up-dictionary-via-command-line-on-linux.html
+
+ii dictd dict-gcide
+dict -I 
+dict -d gcide 'love' |less
+------
 第 [mozlab] Lightweight MozRepl + Vim integration: Refresh Firefox, and restore scroll position on Vim save ! - Google 网上论坛 个
 
 https://groups.google.com/forum/#!topic/mozlab/dJrRJQv474E
@@ -766,3 +774,4 @@ cmus  :music player like mocp
 imagemagick
 zbar-tools
 keynav
+ack-grep
