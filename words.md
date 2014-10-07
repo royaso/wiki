@@ -1,3 +1,24 @@
+多少画家是花一半工作时间在真正的画画上?
+
+光看这句话你都能知道我在说什么,如果你还是个美女,请联系我!
+
+---------
+with so many things we can  do nothing about in life, computer and programming give me the key to a world where everything inside can be controlled and disposal at my will, that is one main reason why I love to programming and the computer world. I am the king of my(the) world.(a little cheesy to say, cuz that remains me the origin of the words, from Titanic)
+
+
+-----------
+所谓'磨刀不误砍材功',有人越磨越钝,还有人居然去磨刀背
+
+I finished reading <Practical Vim>, about 300 pages in two and half days. It got me thinking, long long ago,I deem a book of 200 pages is large to read, Now, a english version book often is over 300 pages, and I think it's medium. I think there are two reason: one, english needs more words than chinese to express the same sentences,and english authors are usually detailed-oriented. two, those book I read happen to be IT-related, The IT books are usuall easy to read if you had the basic knowledges.
+
+3】如果打算爱一个人，你要想清楚，是否愿意为了他，放弃如上帝般自由的心灵，从此心甘情愿有了羁绊。———《了不起的盖茨比》
+
+-----
+
+又发现一枚短发美女
+
+http://www.bilibili.com/video/av1288394/
+------
 Linux 自由谈 - 评论
 
 http://linux.cn/article-2741-1-rel.html

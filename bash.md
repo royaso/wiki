@@ -775,3 +775,4 @@ imagemagick
 zbar-tools
 keynav
 ack-grep
+PlayOnLinux

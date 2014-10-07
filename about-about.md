@@ -130,6 +130,7 @@ http://coolshell.cn/articles/11928.html
 === [[foreigner-in-baidu-kuaizi-promotion-video|百度宣传视频里抛头露面的老外]] ===
 === [[from-baidu-one-step-way|从百度直达号说起]] ===
 === [[my-comments|我在别处的留言和评论]] ===
+=== [[girl-in-my-dream|寻找梦中美女]] ===
 ------
 
 
