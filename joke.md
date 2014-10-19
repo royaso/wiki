@@ -1,3 +1,9 @@
+   Pictures from a developer's life: part 2 | martinvalasek.com
+
+   http://martinvalasek.com/blog/pictures-from-a-developers-life-part-2
+
+
+   ------
    “兄台毕业于哪个学校？” “不才毕业于纽伊斯特学校。” “那是名校啊！”“言重了，敢问阁下？”“布鲁斯特在读中。”“哇，也是青年才俊，前途无量。”我从旁边走过，目不斜视，切，不就是新东方（NewEast）和蓝翔（Blueshit）吗？
 ------
 这样的溺水安全教育真的大丈夫吗 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili

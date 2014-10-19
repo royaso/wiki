@@ -1,3 +1,5 @@
+curl -T $FPATH/$OF -u user:password ftp://12.34.56.78/backup/
+------
 How to look up dictionary via command line on Linux - Linux FAQ
 
 http://xmodulo.com/how-to-look-up-dictionary-via-command-line-on-linux.html
@@ -776,3 +778,7 @@ zbar-tools
 keynav
 ack-grep
 PlayOnLinux
+mat
+espeak
+com.linusyang.localeutf8 - UTF-8 locale files for en_US and zh_CN
+

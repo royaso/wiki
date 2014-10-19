@@ -1,9 +1,48 @@
+这种现象我们称为「初学者心态」，但是我将它看作是「思维零期望」。
+
+就是‘嘗試'
+------
+原來有個詞叫“恭请免礼”
+------
+
+如果你经受不住诱惑，旧远离诱惑。如果你一直记忆不好，那么多动笔。
+
+
+找一个同伴，每天互相告诉对方当天的完成情况，并立下约定，永不反悔。
+
+
+有些事，我们做起来感觉会非常好，比如玩游戏，但是我发现如果一直做这件事的话会很不好。由于你非常喜欢做一件事，所以你会更倾向于做这件事，所以要适度的限制自己去做一件事。
+
+
+这通常我也会忘记的一部分，但我现在记得比较好了。做法是这样的：我们做每一件事，都把它看得神圣一点。例如洗手，这个简单的动作也是一种奇迹（你洗手用水，但是很多人连吃水都有困难），先深呼吸，然后集中注意力，接着再去洗手。同样洗盘子也是这样。每一个动作都值得这么去做：写作，回复邮件，聆听一个朋友的倾诉，与自己的孩子玩，淋雨，散步，付账单等都值得我们关注、欣赏和为之快乐。
+
+
+ 每周日清理我的 Instapaper 订阅
+------
+11件只有程序员才能理解的事情_IT新闻_博客园
+
+http://news.cnblogs.com/n/505940/
+
+
+、代码运行不正确，最终发现是忘了写第二个“=”号
+------
+怦然心动 (豆瓣)
+
+http://movie.douban.com/subject/3319755/?from=subject-page
+
+
+　　
+　　前几天听我的母亲讲起她的初恋，无非是一个又高又帅气的男人从无数追求者中脱颖而出，无微不至地体贴和追求，抄情诗，写情书云云。
+　　可是造化弄人，他们终没能在一起。在她要离开家乡的前夕，男人叫住她，说，我们认识了那么久，还没有碰过你的手呢，我能拉一下你的手么？
+　　妈妈说到这时，脸上扬起了少女般的光辉：然后，我把手伸过去，刚碰到的时候，我一下子像触电一样跳起来了，然后就红着脸跑掉了。
+　　她说：你知道么？从来没有过这样的感觉，心脏快要跳出胸膛一样。 
+------
 多少画家是花一半工作时间在真正的画画上?
 
 光看这句话你都能知道我在说什么,如果你还是个美女,请联系我!
 
 ---------
-with so many things we can  do nothing about in life, computer and programming give me the key to a world where everything inside can be controlled and disposal at my will, that is one main reason why I love to programming and the computer world. I am the king of my(the) world.(a little cheesy to say, cuz that remains me the origin of the words, from Titanic)
+with so many things we can  do nothing about in life, computer and programming give me the key to a world where everything inside can be controlled and disposal at my will, that is one main reason why I love to programming and the computer world. [[I]] am the king of my(the) world.(a little cheesy to say, cuz that remains me the origin of the words, from Titanic)
 
 
 -----------
