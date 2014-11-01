@@ -782,3 +782,8 @@ mat
 espeak
 com.linusyang.localeutf8 - UTF-8 locale files for en_US and zh_CN
 
+plutil
+Balabolka
+aptik
+chromium-browser --disable-web-security
+davfs2
