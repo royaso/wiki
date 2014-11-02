@@ -1,3 +1,6 @@
+GoldenDict 
+`http://dict.youdao.com/search?q=+%GDWORD%&keyfrom=dict.index`
+------
 curl -T $FPATH/$OF -u user:password ftp://12.34.56.78/backup/
 ------
 How to look up dictionary via command line on Linux - Linux FAQ
