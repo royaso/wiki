@@ -1,3 +1,7 @@
+shutdown monitor display in command line
+`xset dpms force off`
+`sleep 1 && ./a.sh` 
+------
 GoldenDict 
 `http://dict.youdao.com/search?q=+%GDWORD%&keyfrom=dict.index`
 ------
@@ -790,3 +794,15 @@ Balabolka
 aptik
 chromium-browser --disable-web-security
 davfs2
+alsamixer
+schaffkopf
+blkid
+dnsmasq
+free digital sketchpad software
+
+68393162129653
+http://dict.youdao.com/search?q=+%GDWORD%&keyfrom=dict.index
+steghide
+xdelta
+sshpass
+WR847N

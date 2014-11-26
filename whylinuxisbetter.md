@@ -1,3 +1,21 @@
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:      +1.16 V  (min =  +0.85 V, max =  +1.60 V)
+ +3.3 Voltage:      +3.20 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:        +4.99 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:      +11.83 V  (min = +10.20 V, max = +13.80 V)
+CPU FAN Speed:     2884 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS FAN Speed:    0 RPM  (min =  800 RPM, max = 7200 RPM)
+CPU Temperature:    +29.0°C  (high = +60.0°C, crit = +95.0°C)
+MB Temperature:     +43.0°C  (high = +45.0°C, crit = +95.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +39.0°C  (high = +76.0°C, crit = +100.0°C)
+Core 1:       +39.0°C  (high = +76.0°C, crit = +100.0°C)
+
+------
+
 ubuntu 自带ios查看功能，不用特地下载类似winmount就可以直接复制操作iso里的文件！
 
 自带虚拟桌面，想要多少就有多少
