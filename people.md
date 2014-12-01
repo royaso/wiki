@@ -1,6 +1,12 @@
 %toc
 --------
 
+XXX
+
+没见过这么无私的人,博客无广告,评论多如牛毛,几乎每条评论都回复,我受益匪浅,佩服不已.有人把他于月光博客相比,我倒认为他比月光博客牛逼多了,月光那小子也是那广告费,而且后期接受投稿,几乎成为投稿平台,大概自己赚到钱了没什么写的了,所以我早不关注了!
+
+------
+
 iphone-elite - iPhone Elite Development Team - Google Project Hosting
 
 https://code.google.com/p/iphone-elite/
@@ -40,7 +46,11 @@ http://www.xiaoqiushui.com/
 == linux ==
 https://linuxtoy.org/
 
+现在也是好久不更新,难得更新一次就是linux快讯什么的
 == meiya ==
+
+现在看,感觉鸡汤多了,而且有推广嫌疑(自己的书,别人的东西)
+------
 
 雷云风暴_起点中文网
 

@@ -805,4 +805,11 @@ http://dict.youdao.com/search?q=+%GDWORD%&keyfrom=dict.index
 steghide
 xdelta
 sshpass
-WR847N
+libav-tools
+arecord
+方法1：
+运行命令：dpkg-reconfigure ca-certificates 会出现一个图形界面，把CNNIC证书不选，并确认。
+方法2：
+编辑 /etc/ca-certificates.conf 文件，把 CNNIC 证书对应的行删除或注释掉。然后用命令 update-ca-certificates 使之生效。
+
+rinetd port forward proxy

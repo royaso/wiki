@@ -20,6 +20,7 @@
 # 等我有了钱，我要买辆自行车，我想骑行回家	1000
 # 煎饼我要十个蛋 好有钱，给爷跪了
 # 海淘
+# henghengheng heheheh hahahahahahhahahah
 
  == 很有钱 ==
 # 一个后院有篮球场的房子，		

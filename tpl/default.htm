@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="//widget.battleforthenet.com/widget.min.js" async></script>
 <title>%title%-royaso-求美女</title>
 <meta charset='utf-8'>
 
@@ -27,6 +26,7 @@ margin-left: 20px;
 
 <body>
 <center><h1><a href='/'>请走在牛逼的路上!!</a></h1></center>
+<center><h3 id='mydiv' style='color:#b20606'>随时发,随手发!</h3></center>
 <center><h4>
 		<ul id='nav' style='list-type:none'>
 		<li><a href='/girl/' alt='Cantact Me, Girl Only'>女博主通道<span style="color: red;">&hearts;求美女</span></a></li>
@@ -50,5 +50,17 @@ margin-left: 20px;
 <hr style='clear:both'>
 
 %content%
+<script>
+window.onload=function(){
+		var xmlhttp=new XMLHttpRequest();
+		xmlhttp.open('get','roya/mymsg.txt',true);
+		xmlhttp.send();
+		xmlhttp.onreadystatechange=function(){
+		if(xmlhttp.readyState==4 && xmlhttp.status==200)
+			mydiv.innerHTML=xmlhttp.responseText;
+			document.title=xmlhttp.responseText;
+		}
+}
+</script>
 </body>
 </html>
