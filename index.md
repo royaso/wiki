@@ -1,4 +1,42 @@
-%template default
+%template index
+
+this can be for short term file share and website display!! vagrant share!!!
+------
+还是有用到滚轮的时候的,比如terminal信息太长,我又把右边滚动条关闭了
+------
+吐槽下百度bae本地开发环境:
+- 文件名字不好,叫localenv.zip,谁能一眼看出来是百度? 
+- 近200m的下载包大部分是software里的vm,vagrant,git的windows版本等等,对我等ubuntu用户,真正有用的也就那几个vagrantfile,五个加起来还不到1m,浪费下载时间和空间,也浪费表情.
+- bae一运行就出错,用户体验非常差!百度下错误信息,好不容易就找到一条,还是bae吧的,还是同样的问题,下面就一个人一直灌水,最后有人自问自答了,但我用他的办法没成功.还是自己想办法:升级看看,估计是这个localenv很久没更新了,然后就成了`sudo pip uninstall bae && sudo pip install bae --upgrade`
+- git也是老版本的.因为http连接git,老是要输入密码,记得有个git命令可以记住,`git config --global credential.helper=store`,但同样的命令在这里就不行,本以为升级下就行`sudo aptitude upgrade git`,还是不行`invalid key`!干!原来没有等号!!  
+- cha!这简直不叫吐槽,简直就是坑阿!!!坑在这里了!`bae app setup -I sadfasd` app里面没东西阿,我擦,vagrant里都是黑黑的,出错信息都没注意到,坑我半天阿,原来说是`.baeapp`这个文件要移除,然后在`git checkout master`才能看到文件阿!!混蛋!!百度没结果,难道只有我遇上这些问题?人品这么好?!感觉这个本地环境没人用也没人维护似得.下雨了
+
+------
+p5kpl am se主板上的'vanderpool technology'就是开启vt-x的选项,而不是我一直以为的'virtualiztion technolog',让我好找阿.而且貌似这个选项是跟cpu是否支持xt-x有关,cpu不支持的话是不会出现这个选项的.
+
+关闭这个选项后,在ubuntu下`cat /proc/cpuinfo | grep vmx`还是会显示的,但`sudo kvm-ok`就起作用了,说明有效
+{{{
+
+10026  ii cpu-checker
+10030  ll /dev/kvm
+10031  ii msr-tools
+10032  sudo modprobe msr
+10033  sudo rdmsr 0x3A
+ 如果是5就是支持,1是不支持
+}}}
+
+我之所以会迷惘是因为vmware提示出错说vt-x不支持,要不要忽略并继续.
+
+去xp下测试securty会不会检测出来,原先的结果是"locked on"
+------
+vagrant官网卡得跟屎一样,十几m的东西要两个小时,这不是开玩笑吗?!百度最新版本,
+------
+看来要改变管理密码的方式了. 1 用lastpass 2 不绑定手机,否则手机一丢,全部玩完
+------
+vmplayer运行xp下的mac虚拟机报错说vt-x不支持?忽略后开机mac卡在灰苹果界面,重新安装连光盘都检测不到,说是没有系统?果然不能在ubuntu下折腾阿.
+
+
+------
 看到很多人说到越狱时都说自己不为了装盗版软件,自己pc都是正版,用的app也是正版.我想说,我也买过两个正版app,今天第二个listeningDrill,之前那个豆丁阅读器.现在半夜下雨
 ------
 绝知此事要躬行。 
@@ -23,41 +61,10 @@ rubber duck!
 
 google也不是万能的,GR被关我是经历过的,但比百度好
 
-{{http://img.linux.net.cn/data/attachment/album/201411/27/230551z13nmzuo6n6r5dmn.gif}}
-----------
 
-一：不能。二：能也不能告诉你。
+------
 
-{{{
-  看来只能自己动手了
-
-
-  求美女阿!!!!!!
-}}}
-
-gmail页面没关,居然很快收到邮件说评论被回复了!
-
-
-{{{
-    阔别电视好多年
-    回复 ↓	
-        土木坛子 文章作者2014 年 11 月 26 日14:47	
-
-        年轻人看电视的越来越少了，但还是有些人看的，我的后台统计显示国外还是有些人需要看国内电视，比如CCTV5之类的直播。
-        回复 ↓	
-            royaso 2014 年 11 月 26 日14:52	
-
-            你后台能显示访客性别及婚姻状况吗?什么时候也照顾下我这种需求的?
-}}}
-
-细节无止境：博客使用双评论框 | 土木坛子
-
-https://tumutanzi.com/archives/12931/comment-page-1#comment-59391
-
-
-
-细节,我注意到了,但没留心.每次看到文末往下就是一个评论框,心一惊:wocao,每人评论?! 再一看,在下面呢.
-
+live as if you were to die tomorrow, learn as if you were to live forever
 ----------
 another reason to get a cpu with vt: to get genymotion run faster  (docker)
 

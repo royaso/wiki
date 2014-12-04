@@ -90,6 +90,14 @@ ii Build new apps quickly
 
 ii gnome do
 ------
+
+git push 报错"fatal: The remote end hung up unexpectedly"
+
+
+问题原因：由于提交文件内容过大，导致git报错。
+
+解决方案：修改http请求最大容量   $ git config http.postBuffer 524288000
+------
 git error
 
 remote: fatal: unable to create thread: Resource temporarily unavailable
@@ -813,3 +821,8 @@ arecord
 编辑 /etc/ca-certificates.conf 文件，把 CNNIC 证书对应的行删除或注释掉。然后用命令 update-ca-certificates 使之生效。
 
 rinetd port forward proxy
+chntpw
+
+rsync -a --delete aa/ bb (note `/`)
+
+curl 127.0.0.1:8080 -H "Host: aaa.com"
