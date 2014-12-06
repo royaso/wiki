@@ -826,3 +826,7 @@ chntpw
 rsync -a --delete aa/ bb (note `/`)
 
 curl 127.0.0.1:8080 -H "Host: aaa.com"
+dgn.
+replace
+g/test/d
+v/test/d
