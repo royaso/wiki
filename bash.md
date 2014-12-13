@@ -244,6 +244,10 @@ mytime=`dialog --stdout -title 'title here' --calendar 'title calneder' 0 0 8 8 
 ------
 inotify-tools
 
+(ipad);
+
+http://github.com/downloads/rvoicilas/inotify-tools/inotify-tools-3.14.tar.gz
+
 unison
 
 incron
@@ -830,3 +834,23 @@ dgn.
 replace
 g/test/d
 v/test/d
+enscript
+ghostscript
+gnuplot
+!!
+echo {"name":"royaso"} |python -mjson.tool
+whiptail
+xmodole pem
+sc spreadsheet caculator
+lxc lxc-checkconfig
+
+ 转换 mp3 标签编码 :  sudo apt-get install python-mutagen;find . -iname '*.mp3' -execdir mid3iconv -e GBK {} \;
+cd other dir;source test.sh
+
+i
+
+
+
+incron
+inoticoming
+fileschanged
