@@ -1,3 +1,5 @@
+`awk 'BEGIN{IGNORECASE=1;FS="<title>|</title>";RS=EOF} {print $2}' oo.html`
+------
 shutdown monitor display in command line
 `xset dpms force off`
 `sleep 1 && ./a.sh` 
@@ -59,6 +61,7 @@ Generating QR Codes in Linux » Linux Magazine
 
 http://www.linux-magazine.com/Online/Features/Generating-QR-Codes-in-Linux
 
+decode using zbarimg ii.png `ii zbar-tools`
 
 ------
 ii qrencode QtQR
@@ -854,3 +857,16 @@ i
 incron
 inoticoming
 fileschanged
+
+rm /etc/xdg/autostart/onboard-autostart.desktop
+%!xxd -b
+
+colorscheme solarized
+ipython
+alltray
+imswitch
+
+audio-recorder
+pavucontrol
+
+
