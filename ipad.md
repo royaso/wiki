@@ -1,3 +1,5 @@
+自动截图上传
+------
 ipad启动时按住up，可以不载入cydia，debug！
 ------
 ubuntu重装后openssh-server,ipad连接不上ubuntu，: ipad: ssh-keygen -R ysh

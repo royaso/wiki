@@ -837,8 +837,11 @@ dgn.
 replace
 g/test/d
 v/test/d
-enscript
-ghostscript
+
+enscript -p out.ps aa.txt
+ps2pdf out.ps  out.pdf
+ghostscript 
+
 gnuplot
 !!
 echo {"name":"royaso"} |python -mjson.tool
@@ -869,4 +872,47 @@ imswitch
 audio-recorder
 pavucontrol
 
+hsmarkdown(pandoc)
 
+ii smartmontools(smartctl)
+
+ii ecryptfs-utils
+
+notify-send -i 5 'header' 'body'
+
+
+dpkg -S 'hsmarkdown' (find out what package a command is command from)
+dpkg -s pandoc
+
+ watch -n 10 "notify-send -u critical 'asdf' 'dsaf\n dasf asdf'"
+ 
+ rhino(javascript-firefox) 
+s3ql
+lsblk sudo blkid (uuid)
+sudo chattr +i a.txt && lsattr a.txt
+
+
+lxc(/var/cache/lxc: /var/lib/lxc);
+duply
+multifox
+
+x11forwarding
+
+rg - How to forward X over SSH from Ubuntu machine? - Unix & Linux Stack Exchange
+
+http://unix.stackexchange.com/questions/12755/how-to-forward-x-over-ssh-from-ubuntu-machine
+
+
+ssh -X -C -c blowfish-cbc,arcfour root@69.172.210.5 -p 2002 ((x11 forward)
+
+1 server and clinet ssh config (sudo service sshd reload)
+2 server install xauth
+3 client ssh -X ****
+4 server: gedit aa.txt
+xpra
+moc/mocp cmus
+caca-utils
+htop
+mplayer a.flv -vo caca
+finch(pidgin console)
+scriptreplay
