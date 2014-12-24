@@ -1,3 +1,9 @@
+你是否具备有学习Linux的素质 - BYVoid
+
+https://www.byvoid.com/blog/linux-stuff
+
+
+------
 "In theory, there is no difference between theory and practice. But in practice, there is."
 ------
 我记得我那时候就将五笔给学会了，只不过一直到上初中才有电脑可用，结果就是将五笔忘的一干二净，怪不得好汉都不能提当年勇，感情都是因为现在不行了。

@@ -916,3 +916,12 @@ htop
 mplayer a.flv -vo caca
 finch(pidgin console)
 scriptreplay
+vifm
+ranger
+xrdb -merge ~/.Xdefaults
+xterm
+sudo apt-get install ranger caca-utils highlight atool w3m poppler-utils mediainfo
+ranger下看pdf,mp4信息
+slapd ldap-utils( lightweight directory acess protacal)
+
+phpldapadmin

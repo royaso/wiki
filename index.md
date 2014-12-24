@@ -1,7 +1,12 @@
-[[%template]] index
+%template index
 [[about-about|archives]]
 
 [[post/alone|寂寞是病]]
+alison 看过来啊,我用ipad发的微博啊,牛逼吧
+------
+xterm显示中文，显示图片
+
+系统自带图片幻灯片一秒切换，浏览中删除
 ------
 【悬疑/推理】嫌疑人X的献身 2008 福山雅治/柴崎幸【720P】 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
 
@@ -74,7 +79,6 @@ http://www.zhihu.com/question/19948550
 
  不是不关机,我有拖延症
 ------
-rhino(javascript-firefox) 
 别人的电脑没法用综合症进一步加剧
 ------
 一个人久了也有点小寂寞,想有人交流交流,但一想到qq或q群,感觉就没什么同道中人(技术上),对群交流这种真不喜欢,刚刚用weechat上irc,如无意外就混上面吧,感觉不错
