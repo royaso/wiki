@@ -925,3 +925,23 @@ ranger下看pdf,mp4信息
 slapd ldap-utils( lightweight directory acess protacal)
 
 phpldapadmin
+xclip-copyfile
+sudo vi /etc/default/rcS (auto clean /tmp on boot)
+
+When adding an existing user to www-data group, you might have to logout and login for the new group privileges to take effect.
+
+sudo usermod -a -G www-data roya
+
+echo "lxc.start.auto = 1" >>/home/roya/.local/share/lxc/ubuntu/config
+
+
+两个鼠标(左上角,会崩溃x,导致重新登陆)
+ 9998  xinput --list
+  9999  xinput --create-master ff
+  10000  xinput --reattach 8 "ff pointer"
+
+manpages-zh
+xzxz(){ls "$@"}
+actionaz
+set editing-mode vi
+set -o vi

@@ -2,6 +2,166 @@
 [[about-about|archives]]
 
 [[post/alone|寂寞是病]]
+
+
+
+Vim Koans - Arabesque
+
+http://blog.sanctum.geek.nz/vim-koans/
+
+vim的传说
+
+学生:怎么过滤包含有tcp字符串的所有行中的第二栏
+Wq:`%!awk '/tcp/ {print $2}'
+学生:额,我用windows
+WQ:`:v/tcp/d` `:g/tcp/s/\S\+\s\+\(\S\+\)\s.*/\1/`
+学生:这...太麻烦了吧
+Wq:Micosoft excell
+
+这也是段子吧,老外的段子,嘿
+
+要不要自己我也搞一个类似的页面.吐槽?!
+
+“Would you pass me the hammer, master?”
+Master Wq handed the novice a saw.
+At once, the novice was enlightened.
+
+突然就顿悟了!
+------
+
+
+Mac优雅使用指南——一个码字民工的Macbook使用心得 - 简书
+
+http://www.jianshu.com/p/c956d8dbce45?utm_campaign=newsletter&utm_medium=note-404456&utm_source=weekly-28
+
+(吐槽专用.其实感觉不是来吐槽,只是借着吐槽的字眼来对比下我的使用习惯,自己记得就行)
+
+
+作者说用了mac后,所有数码产品都换成苹果系的了.这个我有感觉.比如我用ubuntu系统,就想买个ubuntu系统的手机.爱屋及乌的心情.但就像我不喜欢百度,但对百度的技术人员却不讨厌.如果说用mac系统都要鼓起勇气,那用ubuntu等linux系统的岂不是另类?!作者太yy了.
+
+系统都是给人用的,没有能用这个系统就不能用那个系统之说.如果有也只是用惯了gui不习惯cli而已.
+
+mac的应用安装确实像ios安装应用那样,一个安装包就解决了.
+
+我不是个游戏用户,勉强算是文字工作者
+
+Ulysses 3:我不知道这有什么好说的.想要一个专心写作环境,不管什么软件不都是F11全屏吗?这就够了!!vim全屏,ff全屏,你还有什么可分心的?!还'它天生优雅，设计极简，只有一个功能：写作。'我ca!!
+
+ff全屏后没了标签页载入中的动画,确实安心不少
+
+ It's also packed with enough keyboard shortcuts that once you get the hang of it, you'll never want to use a mouse again.
+
+------
+
+[神作]＊The Fall＊ 坠入 [2006] [中英/无分P无补丁] - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+
+http://www.bilibili.com/video/av1512303/
+
+(开头看不下去,越看越想看)
+------
+
+对周杰伦真的是无爱了.下了他最新专辑,看介绍说几首还可以一听,耐心听了所有,然后全部删掉了.能听的只有他以前的那些经典的歌了.
+------
+【1080p】【喜剧】录取通知 Accepted (2006) - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+
+http://www.bilibili.com/video/av1784406/?br
+
+(看得爽!!!的电影,居然还是真实故事改编的!)
+
+------
+我是如何从拥有100件东西到一无所有的 - 博客 - 伯乐在线
+
+http://blog.jobbole.com/59507/
+
+(干!居然被标题党给骗了!!原来如此啊!!hd)
+(也是要小心,真发生了我估计也好不到哪去,备份啊,身份)
+------
+
+The Open Source Spirit | K.I.S.S
+
+https://bigeagle.me/2010/12/the-open-source-spirit/#more
+
+
+此人共同点:linux,vimwiki,vimperator,
+
+I’m a bad programmer.
+------
+
+
+无力的叹息
+
+即使微软如此作恶多端，却依然是“德高望重”，现在看来，即使微软倒下，站起来的依旧是一个新的恶棍，自由软件的深入民心就好像共产主义一样遥遥无期。
+无知的人们啊，他们不知道自己被欺骗，被戏弄，被绑架，当微软、苹果、google给一点点本应就属于他们的自由和便利，他们便一个个的成为了果粉、软粉、谷粉，沉溺在更大的谎言和娱乐之中……
+我只能用微弱的声音呐喊：阻碍民智者，操你妈！
+------
+Richard Stallman仍然是对的 | K.I.S.S
+
+https://bigeagle.me/2013/01/leave-google/
+
+
+tter发表那些碎碎念，调戏推友跟推友交流感情什么的自然是我这种社交不能者保持人类属性的良好途径。刷刷flipboard看看世界上都发生什么，看完忘了也无所谓，放松身心打发时间罢了。
+
+然而严肃的应用却在一点点的从市场中消失，例如Kindle DX再也没有新的版本，6存的小屏幕用来看技术书实在是一行长一点的代码都放不下；写Blog的人越来越少，那些能沉淀下来的思想纷纷化作了twitter和微薄上的碎碎年，随着时间流逝再也不会出现在Timeline里。
+
+
+
+最近想让用了5年的laptop退役，我的需求很简单，轻薄、不要独显、续航久一些，键盘手感能好的话就更好了。一番搜索之后，竟发现整个PC Laptop市场，满足轻薄要求的全是触摸屏！
+
+天啊，Laptop要触摸屏搞毛啊！不支持压感你触摸个毛啊！还尼玛「变形笔记本」难看的要死啊！我要买的是Laptop不是Pad啊！！我要Pad我直接就去买Pad了啊我买你妹的Laptop啊！！！
+
+我就是想要个工作用的Laptop而已啊！你妹的Thinkpad连Trackpoint都不要了你这是作死啊！！
+
+整个计算机市场都被苹果带坏了，「用户你是傻逼，你不需要知道为什么，你也不需要知道怎么做，哥给你用什么，你就用什么好了。It just works!」我是开发者不是傻逼啊好不好！我就是要让他work的人好不好！
+
+叹息一声，正如那个属于黑客的时代走入历史一样，我的时代也被时代抛弃。
+
+时代和我，总有一个错了。
+------
+
+
+互联网从业人员的价值在哪里？ - 互联网从业者 - 知乎
+
+http://www.zhihu.com/question/19578940
+
+
+
+以后再有人故作老成、装出一副“智者”模样说“你要辩证的看问题”，你就拿这个专题砸他的脸。
+------
+
+看似空间几何问题其实是函数问题　－－想到＜ｘ献身＞的这句话．看似摸不到头脑的问题，其实有个弄错了的简单的前提．如果不是误认为尸体是那渣男，如果不是wp和数据库版本不符 
+
+`drop database database` 删除不了database名称这个数据库
+
+`mysqladmin password aa -u -p `密码
+
+百度搞个JB啊,什么开发工具都不完善点.工具跟文档根本不匹配嘛!浪费时间!!
+
+
+cs/cplat/bcs/sdk - 百度开放云平台
+
+http://developer.baidu.com/wiki/index.php?title=docs/cplat/bcs/sdk#Shell-Tool
+
+里面的bsutil.sh,不是可执行状态,然后sh里面的`#!/bin/bash`,看pdf文档应该是早先旧的版本
+有人和我一样遇到这个问题,而且,百度了就这么一个唯一的结果相关!!
+
+使用Shell-Tool访问百度云存储资源的初步尝试_rockrollfree_新浪博客
+
+http://blog.sina.com.cn/s/blog_60f934e40101dum0.html
+
+
+大哥啊,11月份的文章,现在一年后了居然还么改过来,估计百度也不管了!!
+------
+下面 七、故事需要一个结尾 一节提到：
+我老婆曾多次替我担忧：“你把技术都分享出去，别人都学会了你的技术，那你岂不是更有压力啦？” 
+我表示我一点都不担心。
+我不担心的原因类似：“专注度差太多了！” 
+
+我觉得非常对，大多数人其实连技术博客都不逛，就算逛的，其实也有很大一批只是为了逛而逛，没有静下心来
+学习思考，只是泛泛的过一遍而已。
+
+
+------
+
 alison 看过来啊,我用ipad发的微博啊,牛逼吧
 ------
 xterm显示中文，显示图片

@@ -59,3 +59,14 @@ http://me.qidian.com/authorIndex.aspx?id=13342
 
 雷云风暴_到现在还在以每天一更的速度更新着从零开始
 
+
+
+
+https://bigeagle.me/2010/12/twittperator/#more
+
+难得遇到个相似品位的人
+
+vimwiki,vimperator,linux
+
+得留下一笔
+
